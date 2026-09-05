@@ -1,0 +1,6527 @@
+[
+  {
+    "name": "ري سبا",
+    "en": "Ri Spa",
+    "city": "الرياض",
+    "district": "الملقا",
+    "headline": "وقت للعناية، على راحتكِ.",
+    "subhead": "من الحمام المغربي إلى العناية بالشعر والأظافر؛ اختاري ما يناسب زيارتكِ.",
+    "theme": "sage",
+    "layout": "split",
+    "hero": 0,
+    "aboutTitle": "ري، مساحة لراحتكِ",
+    "about": "تجربة تجمع طقوس الحمام المغربي وجلسات المساج مع العناية بالشعر والأظافر، في مكان واحد.",
+    "id": "ri",
+    "services": [
+      {
+        "id": "s:25431201",
+        "name": "حمام العناية المتكاملة للجسم والشعر",
+        "original": "حمام العناية المتكاملة للجسم والشعر 🫧🧼✨🌿 | BODY AND HAIR ULTIMATE HAMMAM",
+        "category": "الحمام المغربي والدلكة",
+        "price": 399,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:25083723",
+        "name": "حمام التفتيح Brightening Hammam",
+        "original": "حمام التفتيح 🛁🫧  Brightening Hammam",
+        "category": "الحمام المغربي والدلكة",
+        "price": 379,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24841770",
+        "name": "حمام العروس الملكي مع دلكة سودانيه",
+        "original": "حمام العروس الملكي مع دلكة سودانيه 👰🏻‍♀️",
+        "category": "الحمام المغربي والدلكة",
+        "price": 700,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15119851",
+        "name": "حمام مغربي كلاسيك",
+        "original": "حمام مغربي كلاسيك | Moroccan Bath – Classic",
+        "category": "الحمام المغربي والدلكة",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15119973",
+        "name": "حمام مغربي ملكي",
+        "original": "حمام مغربي ملكي | Royal Moroccan Bath 🛀",
+        "category": "الحمام المغربي والدلكة",
+        "price": 620,
+        "priceType": "FIXED",
+        "duration": 80,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:15421660",
+        "name": "حمام الأعشاب",
+        "original": "حمام الأعشاب | The Herbal Bath",
+        "category": "الحمام المغربي والدلكة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15120358",
+        "name": "حمام الدلكة السودانية",
+        "original": "حمام الدلكة السودانية | Sudanese Bath",
+        "category": "الحمام المغربي والدلكة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19375288",
+        "name": "باقة الحمام المغربي الكلاسيك [4جلسات حمام والخامسة مجانا ]",
+        "original": "باقة الحمام المغربي الكلاسيك [4جلسات حمام والخامسة مجانا ]",
+        "category": "الحمام المغربي والدلكة",
+        "price": 1400,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19375300",
+        "name": "باقة الحمام المغربي الملكي [4 جلسات حمام والخامسة مجانا ]",
+        "original": "باقة الحمام المغربي الملكي [4 جلسات حمام والخامسة مجانا ]",
+        "category": "الحمام المغربي والدلكة",
+        "price": 2400,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19375343",
+        "name": "باقة حمام الدلكه [4جلسات والخامسة مجانا ]",
+        "original": "باقة حمام الدلكه [4جلسات والخامسة مجانا ]",
+        "category": "الحمام المغربي والدلكة",
+        "price": 1200,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15093844",
+        "name": "كلاسك مناكير و بدكير مع لون",
+        "original": "Manicure and Pedicure Classic |  كلاسك مناكير و بدكير مع لون",
+        "category": "خدمات الاظافر",
+        "price": 235,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:14866187",
+        "name": "منيكير كلاسك مع لون",
+        "original": "Manicure classic | منيكير كلاسك مع لون ",
+        "category": "خدمات الاظافر",
+        "price": 115,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15093852",
+        "name": "بدكير كلاسك مع لون",
+        "original": "Pedicure classic |  بدكير كلاسك مع لون ",
+        "category": "خدمات الاظافر",
+        "price": 120,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:23050955",
+        "name": "برافين اقدام",
+        "original": "برافين اقدام | Paraffin Foot",
+        "category": "خدمات الاظافر",
+        "price": 90,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:23050953",
+        "name": "برافين يد",
+        "original": "برافين يد | Paraffin Hand",
+        "category": "خدمات الاظافر",
+        "price": 90,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:21588664",
+        "name": "بياب على سطح الظفر",
+        "original": "BIAB on Natural Nail | بياب على سطح الظفر",
+        "category": "خدمات الاظافر",
+        "price": 250,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21588684",
+        "name": "بياب اكستنشن",
+        "original": "BIAB Extension | بياب اكستنشن",
+        "category": "خدمات الاظافر",
+        "price": 399,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:15118531",
+        "name": "جل اكستنشن مع لون",
+        "original": "Gel Extensions | جل اكستنشن مع لون ",
+        "category": "خدمات الاظافر",
+        "price": 430,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15862836",
+        "name": "ري سبا منكير جل لليدين",
+        "original": "Ri Manicure Spa Gel | ري سبا منكير جل لليدين",
+        "category": "خدمات الاظافر",
+        "price": 180,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:19375183",
+        "name": "ري سبا بدكير جل للأقدام",
+        "original": "Ri Pedicure Spa Gel | ري سبا بدكير جل للأقدام",
+        "category": "خدمات الاظافر",
+        "price": 170,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:19378460",
+        "name": "ري سبا منكير وبدكير جل",
+        "original": "Ri Manicure & Pedicure Gel spa |   ري سبا منكير وبدكير جل",
+        "category": "خدمات الاظافر",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22974894",
+        "name": "بدكير ومنكير بالمواد الطبيعية مع لون",
+        "original": "Natural Pedicure | بدكير ومنكير بالمواد الطبيعية مع لون",
+        "category": "خدمات الاظافر",
+        "price": 255,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24841927",
+        "name": "باقة العروس",
+        "original": " باقة العروس ",
+        "category": "بكجات ري سبا",
+        "price": 999,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23028454",
+        "name": "باقة الدلال وقت الدوره الشهريه",
+        "original": "باقة الدلال وقت الدوره الشهريه | Menstrual Comfort Package ",
+        "category": "بكجات ري سبا",
+        "price": 365,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23496472",
+        "name": "باقة الميلاد 1",
+        "original": "باقة الميلاد 1 ",
+        "category": "بكجات ري سبا",
+        "price": 399,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24681763",
+        "name": "باقة الميلاد 2",
+        "original": "باقة الميلاد  2 ",
+        "category": "بكجات ري سبا",
+        "price": 280,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24681789",
+        "name": "باقة الميلاد 3",
+        "original": "باقة الميلاد 3 ",
+        "category": "بكجات ري سبا",
+        "price": 650,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24986988",
+        "name": "اي نوع مساج مدة 90 د",
+        "original": " Any Massage 90 min | اي نوع مساج مدة 90 د",
+        "category": "المساج",
+        "price": 399,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:15120279",
+        "name": "مساج الشموع",
+        "original": "Candle massage |  مساج الشموع 🕯️🪻 ",
+        "category": "المساج",
+        "price": 299,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15119981",
+        "name": "مساج استرخاء 60 دقيقة",
+        "original": "مساج استرخاء – 60 دقيقة | Relaxing Massage – 60 Minutes",
+        "category": "المساج",
+        "price": 249,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15119985",
+        "name": "مساج الأحجار الساخنة",
+        "original": "مساج الأحجار الساخنة | Hot Stone Massage",
+        "category": "المساج",
+        "price": 349,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15120315",
+        "name": "مساج الأنسجة العميقة",
+        "original": "مساج الأنسجة العميقة | Deep Tissue Massage",
+        "category": "المساج",
+        "price": 349,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15120336",
+        "name": "مساج التصريف اللمفاوي اليدوي",
+        "original": "مساج التصريف اللمفاوي اليدوي | Manual Lymphatic Drainage Massage",
+        "category": "المساج",
+        "price": 299,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22876095",
+        "name": "مساج الأخشاب",
+        "original": "مساج الأخشاب | Wood Therapy Massage",
+        "category": "المساج",
+        "price": 349,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20294598",
+        "name": "مساج كاسات الهواء",
+        "original": "مساج كاسات الهواء | Cups Massage",
+        "category": "المساج",
+        "price": 349,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15120041",
+        "name": "المساج التايلندي",
+        "original": "المساج التايلندي | Thai Massage",
+        "category": "المساج",
+        "price": 249,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21370638",
+        "name": "مساج الظهر والرقبة والكتف",
+        "original": "مساج الظهر والرقبة والكتف | Back, Neck & Shoulder Massage",
+        "category": "المساج",
+        "price": 180,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15432186",
+        "name": "مساج كتف وراس",
+        "original": "مساج كتف وراس | massage shoulder and head ",
+        "category": "المساج",
+        "price": 130,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15118073",
+        "name": "مساج اليد",
+        "original": "مساج اليد | Hand Massage",
+        "category": "المساج",
+        "price": 79,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:23041656",
+        "name": "صبغه لولايت & هايلايت",
+        "original": "صبغه لولايت & هايلايت| Hair Lowlight & Highlight colour ",
+        "category": "الشعر و التسريح",
+        "price": 800,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15093770",
+        "name": "غسيل الشعر",
+        "original": "Hair Wash | غسيل الشعر ",
+        "category": "الشعر و التسريح",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:15118539",
+        "name": "صبغة جذور",
+        "original": "Root Color | صبغة جذور",
+        "category": "الشعر و التسريح",
+        "price": 185,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15118556",
+        "name": "صبغة جذور بدون أمونيا",
+        "original": " Ammonia-Free Root Color | صبغة جذور بدون أمونيا",
+        "category": "الشعر و التسريح",
+        "price": 200,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:16092048",
+        "name": "صبغة اومبري قصير",
+        "original": "Ombre Color Short | صبغة اومبري قصير",
+        "category": "الشعر و التسريح",
+        "price": 799,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21588809",
+        "name": "صبغة اومبري وسط",
+        "original": "Ombre Color Medium | صبغة اومبري وسط",
+        "category": "الشعر و التسريح",
+        "price": 999,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21588821",
+        "name": "صبغة اومبري طويل",
+        "original": "Ombre Color Long | صبغة اومبري طويل",
+        "category": "الشعر و التسريح",
+        "price": 1099,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15118141",
+        "name": "قص اطراف",
+        "original": "Split Ends Trimming | قص اطراف ",
+        "category": "الشعر و التسريح",
+        "price": 65,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:15118608",
+        "name": "صبغة لون واحد لشعر قصير",
+        "original": "One Color Hair Dye Short | صبغة لون واحد لشعر قصير",
+        "category": "الشعر و التسريح",
+        "price": 395,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15118622",
+        "name": "صبغة لون واحد لشعر متوسط",
+        "original": "One Color Hair Dye Medium | صبغة لون واحد لشعر متوسط",
+        "category": "الشعر و التسريح",
+        "price": 495,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15118637",
+        "name": "صبغة لون واحد لشعر طويل",
+        "original": "One Color Hair Dye Long | صبغة لون واحد لشعر طويل",
+        "category": "الشعر و التسريح",
+        "price": 595,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15118571",
+        "name": "رنساج شعر قصير",
+        "original": "Rinsage Short | رنساج شعر قصير",
+        "category": "الشعر و التسريح",
+        "price": 200,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23104030",
+        "name": "ماسك السدر I Sidr mask",
+        "original": "ماسك السدر I Sidr mask",
+        "category": "خلطات الشعر الطبيعية",
+        "price": 219,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23104080",
+        "name": "بكج السدر اربع جلسات و الخامسة مجاناً",
+        "original": "بكج السدر اربع جلسات و الخامسة مجاناً",
+        "category": "خلطات الشعر الطبيعية",
+        "price": 879,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23104276",
+        "name": "ماسك الحنا",
+        "original": "ماسك الحنا | Henna mask",
+        "category": "خلطات الشعر الطبيعية",
+        "price": 219,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23104282",
+        "name": "بكج الحنا اربع جلست والخامسه مجاناً",
+        "original": "بكج الحنا اربع جلست والخامسه مجاناً",
+        "category": "خلطات الشعر الطبيعية",
+        "price": 879,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23104209",
+        "name": "Mishat mask l ماسك المشاط الاحمر",
+        "original": "Mishat mask l  ماسك المشاط الاحمر ",
+        "category": "خلطات الشعر الطبيعية",
+        "price": 219,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23104220",
+        "name": "بكج المشاط الاحمر اربع جلسات و الخامسة مجاناً",
+        "original": "بكج المشاط الاحمر اربع جلسات و الخامسة مجاناً",
+        "category": "خلطات الشعر الطبيعية",
+        "price": 879,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041986",
+        "name": "رتوش الرموش الدائمة خلال شهر",
+        "original": "رتوش الرموش الدائمة خلال شهر | Month Lash Retouch",
+        "category": "Extention Eyelashes الرموش",
+        "price": 250,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041976",
+        "name": "تركيب رموش طرف كلاسيك",
+        "original": "تركيب رموش طرف كلاسيك | Classic Corner Lash Extensions",
+        "category": "Extention Eyelashes الرموش",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041973",
+        "name": "تركيب رموش دائمة D3",
+        "original": "3D Lash Extensions – Permanent | تركيب رموش دائمة D3",
+        "category": "Extention Eyelashes الرموش",
+        "price": 800,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15425253",
+        "name": "رموش كلاسك (شعرة شعرة)",
+        "original": "رموش كلاسك (شعرة شعرة) | Classic Eyelashes",
+        "category": "Extention Eyelashes الرموش",
+        "price": 499,
+        "priceType": "FIXED",
+        "duration": 105,
+        "maxDuration": 105
+      },
+      {
+        "id": "s:16154507",
+        "name": "إزالة الرموش الشهرية",
+        "original": "إزالة الرموش الشهرية | Monthly Eyelash Removal",
+        "category": "Extention Eyelashes الرموش",
+        "price": 180,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15266301",
+        "name": "تركيب رموش أسبوعية",
+        "original": "تركيب رموش أسبوعية | Weekly Eyelashes",
+        "category": "Extention Eyelashes الرموش",
+        "price": 115,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:16299115",
+        "name": "رموش يومية من الزبونة",
+        "original": "Client’s Own Daily Lashes | رموش يومية من الزبونة",
+        "category": "Extention Eyelashes الرموش",
+        "price": 29,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:23041852",
+        "name": "بكج فيلر للشعر الطويل",
+        "original": "بكج فيلر للشعر الطويل | Hair Filler Package – Long Hair",
+        "category": "معالجات الشعر",
+        "price": 1100,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041850",
+        "name": "بكج فيلر للشعر الوسط",
+        "original": "بكج فيلر للشعر الوسط | Hair Filler Package – Medium Hair",
+        "category": "معالجات الشعر",
+        "price": 950,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041834",
+        "name": "بكج فيلر للشعر القصير",
+        "original": "بكج فيلر للشعر القصير | Hair Filler Package – Short Hair",
+        "category": "معالجات الشعر",
+        "price": 800,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041826",
+        "name": "فيلر للشعر الطويل",
+        "original": "فيلر للشعر الطويل | Hair Filler – Long Hair",
+        "category": "معالجات الشعر",
+        "price": 400,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041819",
+        "name": "فيلر للشعر الوسط",
+        "original": "فيلر للشعر الوسط | Hair Filler – Medium Hair",
+        "category": "معالجات الشعر",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041808",
+        "name": "فيلر للشعر القصير",
+        "original": "فيلر للشعر القصير | Hair Filler – Short Hair",
+        "category": "معالجات الشعر",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041798",
+        "name": "بكج الترندي الشعر الطويل",
+        "original": "بكج الترندي الشعر الطويل | Trendy Hair Package – Long Hair",
+        "category": "معالجات الشعر",
+        "price": 1650,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041791",
+        "name": "بكج الترندي الشعر الوسط",
+        "original": "بكج الترندي الشعر الوسط | Trendy Hair Package – Medium Hair",
+        "category": "معالجات الشعر",
+        "price": 1350,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041783",
+        "name": "بكج الترندي الشعر القصير",
+        "original": "بكج الترندي الشعر القصير | Trendy Hair Package – Short Hair",
+        "category": "معالجات الشعر",
+        "price": 1050,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23041754",
+        "name": "معالج قرين كافيار طويل",
+        "original": "معالج قرين كافيار طويل | Green Caviar Treatment – Long Hair ",
+        "category": "معالجات الشعر",
+        "price": 1450,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21588876",
+        "name": "معالج جرين كافيار جذور قصير",
+        "original": "Green Caviar Root Therapist short | معالج جرين كافيار جذور قصير ",
+        "category": "معالجات الشعر",
+        "price": 575,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19376288",
+        "name": "معالج جرين كافيار جذور طويل",
+        "original": "Green Caviar Root treatment | معالج جرين كافيار جذور طويل ",
+        "category": "معالجات الشعر",
+        "price": 1175,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22876655",
+        "name": "واكس الشنب",
+        "original": "واكس الشنب | Moustache Wax",
+        "category": "واكس أو فتلة",
+        "price": 40,
+        "priceType": "FIXED",
+        "duration": 25,
+        "maxDuration": 25
+      },
+      {
+        "id": "s:22876608",
+        "name": "واكس كامل الوجه",
+        "original": "واكس كامل الوجه | Full Face Wax",
+        "category": "واكس أو فتلة",
+        "price": 140,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:22876592",
+        "name": "واكس الإبط",
+        "original": "واكس الإبط | Armpit Wax",
+        "category": "واكس أو فتلة",
+        "price": 55,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:22876604",
+        "name": "واكس الظهر",
+        "original": "Back wax  | واكس الظهر ",
+        "category": "واكس أو فتلة",
+        "price": 120,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:22876587",
+        "name": "واكس نصف القدم",
+        "original": "واكس نصف القدم | Half Feet Wax",
+        "category": "واكس أو فتلة",
+        "price": 115,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:22876576",
+        "name": "واكس الرجل كاملة",
+        "original": "واكس الرجل كاملة | Full Leg Wax",
+        "category": "واكس أو فتلة",
+        "price": 168,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22876582",
+        "name": "واكس نصف اليد",
+        "original": "واكس نصف اليد | Half Arm Wax",
+        "category": "واكس أو فتلة",
+        "price": 85,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22876569",
+        "name": "واكس اليد كاملة",
+        "original": "واكس اليد كاملة | Full Arm Wax",
+        "category": "واكس أو فتلة",
+        "price": 130,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22876544",
+        "name": "واكس الجسم كامل",
+        "original": "واكس الجسم كامل | Full Body Wax",
+        "category": "واكس أو فتلة",
+        "price": 440,
+        "priceType": "FIXED",
+        "duration": 80,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:22878182",
+        "name": "تنظيف الحواجب بالشفره",
+        "original": "تنظيف الحواجب بالشفره | Eyebrow Shaping Razor",
+        "category": "واكس أو فتلة",
+        "price": 85,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:15560097",
+        "name": "تنظيف الحواجب بالفتلة",
+        "original": "تنظيف الحواجب بالفتلة | Eyebrow Shaping Threading ",
+        "category": "واكس أو فتلة",
+        "price": 85,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:16423873",
+        "name": "فتلة شنب",
+        "original": " Mustache Threading  | فتلة شنب ",
+        "category": "واكس أو فتلة",
+        "price": 40,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      }
+    ],
+    "images": [
+      "/assets/ri/0.jpg",
+      "/assets/ri/1.jpg",
+      "/assets/ri/2.jpg",
+      "/assets/ri/3.jpg",
+      "/assets/ri/4.jpg",
+      "/assets/ri/5.jpg",
+      "/assets/ri/6.jpg"
+    ],
+    "portfolio": [],
+    "logo": null,
+    "phone": "966534305193",
+    "source": "https://www.fresha.com/a/ri-spa-ry-sb-riyadh-ri-spa-ry-sb-dy7imz1t",
+    "booking": "https://www.fresha.com/a/ri-spa-ry-sb-riyadh-ri-spa-ry-sb-dy7imz1t/all-offer",
+    "instagram": "https://www.instagram.com/rispa.sa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=Ri%20Spa%20%7C%20%D8%B1%D9%8A%20%D8%B3%D8%A8%D8%A7%2C%20Riyadh%2C%2013524%2C%20Riyadh%20Province",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ri%20Spa%20%7C%20%D8%B1%D9%8A%20%D8%B3%D8%A8%D8%A7%2C%20Riyadh%2C%2013524%2C%20Riyadh%20Province",
+      "shortFormatted": "Ri Spa | ري سبا, Al Malqa, Riyadh, Riyadh Province",
+      "cityName": "Riyadh",
+      "postalCode": "13524",
+      "region1": "Riyadh Province",
+      "streetAddress": "Ri Spa | ري سبا",
+      "apartmentSuite": null,
+      "countryCode": "SA",
+      "latitude": 24.816673278808594,
+      "longitude": 46.597747802734375,
+      "simpleFormatted": "Al Malqa, Riyadh",
+      "simpleFormattedWithContext": "Al Malqa, Riyadh",
+      "servicingAreas": [
+        "Al Malqa"
+      ],
+      "nearbyServicingAreas": [
+        "Al Malqa",
+        "الرياض",
+        "حي الملقا",
+        "2735",
+        "الملقا",
+        "8672",
+        "الخبر"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 11:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 11:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 11:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 11:00 PM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.7,
+    "totalServices": 155,
+    "qualification": "قوقل ماب يربط إلى فريشا",
+    "servicesTitle": "خدمات ري",
+    "bookingTitle": "اختاري موعد زيارتكِ",
+    "visitTitle": "نلتقي في الملقا"
+  },
+  {
+    "name": "كوت سبا",
+    "en": "Côte",
+    "city": "الرياض",
+    "district": "النرجس",
+    "headline": "تفاصيل أظافركِ، بذوقكِ.",
+    "subhead": "مانيكير وبديكير، جل ورموش. اختاري تفاصيل إطلالتكِ من قائمة كوت.",
+    "theme": "olive",
+    "layout": "editorial",
+    "hero": 3,
+    "aboutTitle": "لمسة كوت الخاصة",
+    "about": "من العناية الكلاسيكية إلى تفاصيل الجل والرموش. اختاري اللمسة التي تناسب إطلالتكِ.",
+    "id": "cote",
+    "services": [
+      {
+        "id": "p:1682789",
+        "name": "Soft Days Package باقة أيام الراحة",
+        "original": "Soft Days Package ❤︎ باقة أيام الراحة",
+        "category": "الباقات",
+        "price": 287,
+        "priceType": "STARTS_AT",
+        "duration": 95,
+        "maxDuration": 95
+      },
+      {
+        "id": "s:21675439",
+        "name": "مناكير كوت (لليدين)",
+        "original": "Côte Manicure | مناكير كوت (لليدين)",
+        "category": "مناكير",
+        "price": 129,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:23679967",
+        "name": "مناكير ياباني (لليدين)",
+        "original": "Japanese Manicure | مناكير ياباني (لليدين)",
+        "category": "مناكير",
+        "price": 175,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:21675586",
+        "name": "مناكير روسي جاف (لليدين)",
+        "original": "Russian Dry Manicure |  مناكير روسي جاف (لليدين)",
+        "category": "مناكير",
+        "price": 158,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:21859645",
+        "name": "إصلاح اظافر سريع",
+        "original": "Quick Fix | إصلاح اظافر سريع",
+        "category": "مناكير",
+        "price": 85,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21348827",
+        "name": "بديكير كوت (للأقدام)",
+        "original": "Côte Pedicure | بديكير كوت (للأقدام)",
+        "category": "باديكير",
+        "price": 119,
+        "priceType": "STARTS_AT",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:21348321",
+        "name": "بديكير روسي جاف (للأقدام)",
+        "original": "Russian Dry Pedicure | بديكير روسي جاف (للأقدام)",
+        "category": "باديكير",
+        "price": 219,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24379359",
+        "name": "بديكير ياباني (للأقدام)",
+        "original": "Japanese Manicure | بديكير ياباني (للأقدام)",
+        "category": "باديكير",
+        "price": 200,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21348450",
+        "name": "بياب مع تنظيف روسي",
+        "original": "BIAB with Russian Manicure | بياب مع تنظيف روسي ",
+        "category": "اكستنشن الأظافر",
+        "price": 320,
+        "priceType": "STARTS_AT",
+        "duration": 90,
+        "maxDuration": 135
+      },
+      {
+        "id": "s:21348300",
+        "name": "جل اكستنشن",
+        "original": "Gel Extensions | جل اكستنشن",
+        "category": "اكستنشن الأظافر",
+        "price": 49,
+        "priceType": "STARTS_AT",
+        "duration": 20,
+        "maxDuration": 150
+      },
+      {
+        "id": "s:21348521",
+        "name": "اعادة تعبئة جل اكستنشن",
+        "original": "Gel Extensions Refill |  اعادة تعبئة جل اكستنشن",
+        "category": "اكستنشن الأظافر",
+        "price": 45,
+        "priceType": "STARTS_AT",
+        "duration": 20,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:22552476",
+        "name": "اعادة تعبئة بياب",
+        "original": "BIAB Refill | اعادة تعبئة بياب  ",
+        "category": "اكستنشن الأظافر",
+        "price": 32,
+        "priceType": "STARTS_AT",
+        "duration": 10,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:22013915",
+        "name": "تركيب اظافر صناعية",
+        "original": "Soft Gel Extension (press on) |  تركيب اظافر صناعية",
+        "category": "اكستنشن الأظافر",
+        "price": 17.5,
+        "priceType": "STARTS_AT",
+        "duration": 10,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21348690",
+        "name": "لون عادي",
+        "original": "Regular Polish | لون عادي",
+        "category": "إضافات",
+        "price": 39,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:21348676",
+        "name": "لون جل",
+        "original": "Gel Polish | لون جل ",
+        "category": "إضافات",
+        "price": 98,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:21348805",
+        "name": "لون فرنش",
+        "original": "French | لون فرنش ",
+        "category": "إضافات",
+        "price": 98,
+        "priceType": "STARTS_AT",
+        "duration": 25,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:21348669",
+        "name": "اومبريه",
+        "original": "Ombre | اومبريه",
+        "category": "إضافات",
+        "price": 79,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21348603",
+        "name": "كروم",
+        "original": "Chrome Metallic | كروم ",
+        "category": "إضافات",
+        "price": 48,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:21918551",
+        "name": "كات آي",
+        "original": "Cat Eye | كات آي",
+        "category": "إضافات",
+        "price": 135,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:23964909",
+        "name": "اصلاح الظفر بالفايبر قلاس",
+        "original": "Fiber glass nail fix | اصلاح الظفر بالفايبر قلاس",
+        "category": "إضافات",
+        "price": 23,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:21348550",
+        "name": "آرت اظافر",
+        "original": "Nail Art | آرت اظافر",
+        "category": "إضافات",
+        "price": 33,
+        "priceType": "STARTS_AT",
+        "duration": 15,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21348581",
+        "name": "آرت اظافر بسيط",
+        "original": "Simple Nail Art | آرت اظافر بسيط ",
+        "category": "إضافات",
+        "price": 26,
+        "priceType": "STARTS_AT",
+        "duration": 10,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:22469400",
+        "name": "ملصقات أو كريستال",
+        "original": "Stickers or Crystal | ملصقات أو كريستال",
+        "category": "إضافات",
+        "price": null,
+        "priceType": "FIXED",
+        "duration": 5,
+        "maxDuration": 5
+      },
+      {
+        "id": "s:22211693",
+        "name": "مساج لليدين",
+        "original": "Hand massage | مساج لليدين",
+        "category": "إضافات",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:22366611",
+        "name": "مساج للقدمين",
+        "original": "Foot Massage | مساج للقدمين",
+        "category": "إضافات",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:21348730",
+        "name": "إزالة لون جل",
+        "original": "Gel Polish Removal | إزالة لون جل ",
+        "category": "الإزالات",
+        "price": 59,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:21348472",
+        "name": "إزالة بياب أو جل اكستنشن",
+        "original": "BIAB or Gel Extensions Removal | إزالة بياب أو جل اكستنشن",
+        "category": "الإزالات",
+        "price": 15,
+        "priceType": "STARTS_AT",
+        "duration": 10,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:22552309",
+        "name": "Soft Gel (Press-on) Removal ازالة الاظافر الاصطناعية",
+        "original": "Soft Gel (Press-on) Removal ازالة الاظافر الاصطناعية",
+        "category": "الإزالات",
+        "price": 95,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:25247184",
+        "name": "رموش جانبية",
+        "original": "Half lash| رموش جانبية",
+        "category": "الرموش",
+        "price": 200,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22100787",
+        "name": "رفع رموش",
+        "original": "Lash Lift |رفع رموش",
+        "category": "الرموش",
+        "price": 385,
+        "priceType": "FIXED",
+        "duration": 75,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:21348986",
+        "name": "إزالة الرموش الدائمة",
+        "original": "Eyelash Removal Only | إزالة الرموش الدائمة ",
+        "category": "الرموش",
+        "price": 80,
+        "priceType": "FIXED",
+        "duration": 25,
+        "maxDuration": 25
+      },
+      {
+        "id": "s:21349333",
+        "name": "رفع و تنظيف الحواجب",
+        "original": "Eyebrow Lifting & Cleaning | رفع و تنظيف الحواجب",
+        "category": "الوجه و الحواجب",
+        "price": 399,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22089064",
+        "name": "رفع و تشقير الحواجب",
+        "original": "Eyebrow Lift & Bleaching |  رفع و تشقير الحواجب",
+        "category": "الوجه و الحواجب",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22089044",
+        "name": "تشقير و صبغة حواجب",
+        "original": "Eyebrow Blech & Tint |  تشقير و صبغة حواجب",
+        "category": "الوجه و الحواجب",
+        "price": 129,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:22088877",
+        "name": "تشقير الحواجب",
+        "original": "Eyebrow Bleaching | تشقير الحواجب ",
+        "category": "الوجه و الحواجب",
+        "price": 65,
+        "priceType": "FIXED",
+        "duration": 25,
+        "maxDuration": 25
+      },
+      {
+        "id": "s:22088890",
+        "name": "صبغة الحواجب",
+        "original": "Eyebrow Tint | صبغة الحواجب ",
+        "category": "الوجه و الحواجب",
+        "price": 65,
+        "priceType": "FIXED",
+        "duration": 25,
+        "maxDuration": 25
+      },
+      {
+        "id": "s:21348927",
+        "name": "خيط كامل الوجه",
+        "original": "Full Face Threading | خيط كامل الوجه",
+        "category": "الوجه و الحواجب",
+        "price": 99,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21348921",
+        "name": "خيط الحواجب",
+        "original": "Eyebrow Threading | خيط الحواجب ",
+        "category": "الوجه و الحواجب",
+        "price": 49,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:21348957",
+        "name": "خيط الشفاه",
+        "original": "Upper Lip Threading | خيط الشفاه",
+        "category": "الوجه و الحواجب",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 5,
+        "maxDuration": 5
+      },
+      {
+        "id": "s:21348977",
+        "name": "خيط الذقن",
+        "original": "Chin Threading | خيط الذقن ",
+        "category": "الوجه و الحواجب",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      }
+    ],
+    "images": [
+      "/assets/cote/0.jpg",
+      "/assets/cote/1.jpg",
+      "/assets/cote/2.jpg",
+      "/assets/cote/3.jpg",
+      "/assets/cote/4.jpg",
+      "/assets/cote/5.jpg"
+    ],
+    "portfolio": [],
+    "logo": "/assets/cote/logo.jpg",
+    "phone": "966554993382",
+    "source": "https://www.fresha.com/a/cote-nail-spa-kwt-sb-riyadh-8782-uthman-ibn-affan-rd-yi93aygh",
+    "booking": "https://www.fresha.com/a/cote-nail-spa-kwt-sb-riyadh-8782-uthman-ibn-affan-rd-yi93aygh/all-offer",
+    "instagram": "https://www.instagram.com/cote_spa/",
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=8782%20Uthman%20Ibn%20Affan%20Rd%2C%20Riyadh%2C%2013323%2C%20Riyadh%20Province",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=8782%20Uthman%20Ibn%20Affan%20Rd%2C%20Riyadh%2C%2013323%2C%20Riyadh%20Province",
+      "shortFormatted": "8782 Uthman Ibn Affan Rd, An Narjis, Riyadh, Riyadh Province",
+      "cityName": "Riyadh",
+      "postalCode": "13323",
+      "region1": "Riyadh Province",
+      "streetAddress": "8782 Uthman Ibn Affan Rd",
+      "apartmentSuite": null,
+      "countryCode": "SA",
+      "latitude": 24.832847595214844,
+      "longitude": 46.679412841796875,
+      "simpleFormatted": "An Narjis, Riyadh",
+      "simpleFormattedWithContext": "An Narjis, Riyadh",
+      "servicingAreas": [
+        "An Narjis"
+      ],
+      "nearbyServicingAreas": [
+        "An Narjis",
+        "حي النرجس"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": true,
+        "isToday": false,
+        "values": [
+          {
+            "value": "Closed"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:30 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:30 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:30 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:30 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "2:00 PM - 10:30 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:30 PM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.9,
+    "totalServices": 52,
+    "qualification": "قوقل ماب يربط إلى فريشا",
+    "servicesTitle": "قائمة كوت",
+    "bookingTitle": "موعدكِ في كوت",
+    "visitTitle": "كوت في النرجس"
+  },
+  {
+    "name": "وذن سبا",
+    "en": "Wthn",
+    "city": "الرياض",
+    "district": "الملقا",
+    "headline": "إطلالتكِ، كما تحبينها.",
+    "subhead": "قصّ ولون وعناية بالشعر، مع خدمات الأظافر والرموش في وذن.",
+    "theme": "sand",
+    "layout": "cinema",
+    "hero": 4,
+    "aboutTitle": "مساحة تتسع لجمالكِ",
+    "about": "ضوء طبيعي، مساحات رحبة وعناية بتفاصيل إطلالتكِ. اكتشفي خدمات وذن واختاري ما يناسبكِ.",
+    "id": "wthn",
+    "services": [
+      {
+        "id": "p:1639795",
+        "name": "معالج فروة + استشوار ويفي",
+        "original": "Scalp treatment + wavy blowdry | معالج فروة + استشوار ويفي",
+        "category": "عروض الصيف",
+        "price": 420,
+        "priceType": "FIXED",
+        "duration": 135,
+        "maxDuration": 135
+      },
+      {
+        "id": "p:490389",
+        "name": "معالج تردني + قص إطراف + استشوار ويفي",
+        "original": "Trendy treatment + Hair Trim + Blowdry Wavy |  معالج تردني + قص إطراف + استشوار ويفي ",
+        "category": "عروض الصيف",
+        "price": 580,
+        "priceType": "FIXED",
+        "duration": 135,
+        "maxDuration": 135
+      },
+      {
+        "id": "p:490388",
+        "name": "جذور + قص إطراف + استشوار ويفي",
+        "original": "Roots + Hair Trim + Blowdry Wavy  |  جذور + قص إطراف + استشوار ويفي ",
+        "category": "عروض الصيف",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 135,
+        "maxDuration": 135
+      },
+      {
+        "id": "p:490376",
+        "name": "رنساج + قص إطراف + استشوار ويفي",
+        "original": "Rinsage + Hair Trim + Blowdry Wavy  |  رنساج + قص إطراف + استشوار ويفي  ",
+        "category": "عروض الصيف",
+        "price": 440,
+        "priceType": "FIXED",
+        "duration": 130,
+        "maxDuration": 130
+      },
+      {
+        "id": "p:1885741",
+        "name": "كافيار الازرق(قصير) + قص اطراف",
+        "original": "Blue caviar (short) + Hair trim | كافيار الازرق(قصير) + قص اطراف",
+        "category": "عروض الصيف",
+        "price": 544,
+        "priceType": "FIXED",
+        "duration": 150,
+        "maxDuration": 150
+      },
+      {
+        "id": "p:1885742",
+        "name": "كافيار الازرق(وسط) + قص اطراف",
+        "original": "Blue caviar (Med) + Hair trim | كافيار الازرق(وسط) + قص اطراف",
+        "category": "عروض الصيف",
+        "price": 624,
+        "priceType": "FIXED",
+        "duration": 165,
+        "maxDuration": 165
+      },
+      {
+        "id": "p:1885744",
+        "name": "كافيار الازرق(طويل) + قص اطراف",
+        "original": "Blue caviar (Long) + Hair trim | كافيار الازرق(طويل) + قص اطراف",
+        "category": "عروض الصيف",
+        "price": 704,
+        "priceType": "FIXED",
+        "duration": 180,
+        "maxDuration": 180
+      },
+      {
+        "id": "p:1885745",
+        "name": "كافيار الازرق(طويل جدا) + قص اطراف",
+        "original": "Blue caviar (V.Long) + Hair trim | كافيار الازرق(طويل جدا) + قص اطراف",
+        "category": "عروض الصيف",
+        "price": 784,
+        "priceType": "FIXED",
+        "duration": 195,
+        "maxDuration": 195
+      },
+      {
+        "id": "s:21788990",
+        "name": "توصيل",
+        "original": "توصيل",
+        "category": "خدمة منزلية ( North areas / الشمال)",
+        "price": 40,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24544589",
+        "name": "القص",
+        "original": "Cut | القص",
+        "category": "خدمة منزلية ( North areas / الشمال)",
+        "price": 50,
+        "priceType": "STARTS_AT",
+        "duration": 25,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:16329616",
+        "name": "تركيب رموش",
+        "original": "Party lashes | تركيب رموش ",
+        "category": "الرموش",
+        "price": 85,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:16239892",
+        "name": "غسيل الشعر",
+        "original": "Hair wash | غسيل الشعر",
+        "category": "الشعر",
+        "price": 15,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:16239959",
+        "name": "غسيل شعر عميق",
+        "original": "Deep hair wash | غسيل شعر عميق",
+        "category": "الشعر",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:15184276",
+        "name": "غسيل كيفن ميرفي للشعر",
+        "original": "Kevin Murphy Hair Wash | غسيل كيفن ميرفي للشعر",
+        "category": "الشعر",
+        "price": 90,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:17678947",
+        "name": "رترو",
+        "original": "Retro | رترو",
+        "category": "الشعر",
+        "price": 300,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15184250",
+        "name": "سشوار",
+        "original": "Blowdry | سشوار",
+        "category": "الشعر",
+        "price": 110,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15184288",
+        "name": "سشوار ويفي",
+        "original": "Wavy | سشوار ويفي",
+        "category": "الشعر",
+        "price": 170,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:15184196",
+        "name": "فير",
+        "original": "Curling | فير",
+        "category": "الشعر",
+        "price": 200,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:15184246",
+        "name": "تسريحة",
+        "original": "Styling | تسريحة",
+        "category": "الشعر",
+        "price": 300,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15184189",
+        "name": "القص",
+        "original": "Cut | القص",
+        "category": "الشعر",
+        "price": 50,
+        "priceType": "STARTS_AT",
+        "duration": 25,
+        "maxDuration": 45
+      },
+      {
+        "id": "p:469615",
+        "name": "لون كامل مع أساس (طويل جداً)",
+        "original": "Full Color Combo (Very Long) | لون كامل مع أساس (طويل جداً)",
+        "category": "الصبغات",
+        "price": 2372,
+        "priceType": "STARTS_AT",
+        "duration": 100,
+        "maxDuration": 100
+      },
+      {
+        "id": "s:15184186",
+        "name": "اختبار لون واستشارة",
+        "original": "Color Test & Consultation | اختبار لون واستشارة",
+        "category": "الصبغات",
+        "price": 50,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:15184271",
+        "name": "جذور",
+        "original": "Roots | جذور",
+        "category": "الصبغات",
+        "price": 220,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:16340680",
+        "name": "جذور بدون امونيا",
+        "original": "Roots Ammonia free |  جذور بدون امونيا",
+        "category": "الصبغات",
+        "price": 350,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15184185",
+        "name": "رنساج",
+        "original": "Rensage | رنساج",
+        "category": "الصبغات",
+        "price": 280,
+        "priceType": "STARTS_AT",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:15184278",
+        "name": "صبغة لون واحد",
+        "original": "One Color | صبغة لون واحد",
+        "category": "الصبغات",
+        "price": 550,
+        "priceType": "STARTS_AT",
+        "duration": 50,
+        "maxDuration": 50
+      },
+      {
+        "id": "s:16340798",
+        "name": "صبغة بدون امونيا",
+        "original": "Color Ammonia free | صبغة بدون امونيا",
+        "category": "الصبغات",
+        "price": 750,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15184245",
+        "name": "هايلايت أو لولايت أو سومبريه",
+        "original": "Highlights, Lowlights, Sombre | هايلايت أو لولايت أو سومبريه",
+        "category": "الصبغات",
+        "price": 792,
+        "priceType": "STARTS_AT",
+        "duration": 50,
+        "maxDuration": 50
+      },
+      {
+        "id": "s:15184256",
+        "name": "كونتور",
+        "original": "Contour | كونتور ",
+        "category": "الصبغات",
+        "price": 445,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "p:469609",
+        "name": "لون كامل مع أساس (قصير)",
+        "original": "Full Color Combo (Short) | لون كامل مع أساس (قصير)",
+        "category": "الصبغات",
+        "price": 1100,
+        "priceType": "FIXED",
+        "duration": 100,
+        "maxDuration": 100
+      },
+      {
+        "id": "p:469611",
+        "name": "لون كامل مع أساس (وسط)",
+        "original": "Full Color Combo (Medium) | لون كامل مع أساس (وسط)",
+        "category": "الصبغات",
+        "price": 1584,
+        "priceType": "STARTS_AT",
+        "duration": 100,
+        "maxDuration": 100
+      },
+      {
+        "id": "p:469614",
+        "name": "لون كامل مع أساس (طويل)",
+        "original": "Full Color Combo (Long) | لون كامل مع أساس (طويل)",
+        "category": "الصبغات",
+        "price": 2064,
+        "priceType": "STARTS_AT",
+        "duration": 100,
+        "maxDuration": 100
+      },
+      {
+        "id": "s:17789595",
+        "name": "حماية ميتال ديتوكس",
+        "original": "Metal detox protection | حماية ميتال ديتوكس",
+        "category": "المعالجات",
+        "price": 58,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:15902719",
+        "name": "حمام زيت",
+        "original": "Vital Creambath | حمام زيت",
+        "category": "المعالجات",
+        "price": 50,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:17672000",
+        "name": "ابسولوت ريبير",
+        "original": "Absolute repair | ابسولوت ريبير",
+        "category": "المعالجات",
+        "price": 70,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:17672016",
+        "name": "فيتامينو كولور",
+        "original": "Vitamino color | فيتامينو كولور",
+        "category": "المعالجات",
+        "price": 100,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:17673146",
+        "name": "ميتال ديتوكس",
+        "original": "Metal detox | ميتال ديتوكس",
+        "category": "المعالجات",
+        "price": 100,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:15184260",
+        "name": "علاج k18",
+        "original": "K18 Treatment | علاج k18",
+        "category": "المعالجات",
+        "price": 90,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:15184233",
+        "name": "علاج فروة الرأس",
+        "original": "Scalp Exfoliating Treatment | علاج فروة الرأس",
+        "category": "المعالجات",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15184239",
+        "name": "اكسير المرطب",
+        "original": "Magic Elixir | اكسير المرطب ",
+        "category": "المعالجات",
+        "price": 250,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15184238",
+        "name": "كافيار ازرق",
+        "original": "Blue Caviar | كافيار ازرق",
+        "category": "المعالجات",
+        "price": 600,
+        "priceType": "STARTS_AT",
+        "duration": 120,
+        "maxDuration": 165
+      },
+      {
+        "id": "s:15184268",
+        "name": "كافيار أخضر (Hot Treatment)",
+        "original": "Green Caviar | كافيار أخضر (Hot Treatment)",
+        "category": "المعالجات",
+        "price": 500,
+        "priceType": "STARTS_AT",
+        "duration": 120,
+        "maxDuration": 195
+      },
+      {
+        "id": "s:15184242",
+        "name": "معالج ترندي",
+        "original": "Trendy Treatment | معالج ترندي",
+        "category": "المعالجات",
+        "price": 400,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15184209",
+        "name": "بوند فيوجن",
+        "original": "Bond Fusion | بوند فيوجن",
+        "category": "المعالجات",
+        "price": 200,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15184182",
+        "name": "فتلة حواجب",
+        "original": "Eyebrow Threading | فتلة حواجب",
+        "category": "ازالة الشعر",
+        "price": 75,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:15184247",
+        "name": "فتله فوق الشفاه",
+        "original": "Upper Lip Threading | فتله فوق الشفاه",
+        "category": "ازالة الشعر",
+        "price": 50,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:15184248",
+        "name": "كلاسيك مانكير",
+        "original": "Classic Manicure | كلاسيك مانكير",
+        "category": "مانكير",
+        "price": 149,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 100
+      },
+      {
+        "id": "s:15184251",
+        "name": "جل مانكير",
+        "original": "Gel Polish Manicure | جل مانكير",
+        "category": "مانكير",
+        "price": 228,
+        "priceType": "STARTS_AT",
+        "duration": 75,
+        "maxDuration": 100
+      },
+      {
+        "id": "s:15184236",
+        "name": "مانكير سريع",
+        "original": "Express Manicure | مانكير سريع",
+        "category": "مانكير",
+        "price": 95,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15184225",
+        "name": "جل سريع",
+        "original": "Express Gel | جل سريع",
+        "category": "مانكير",
+        "price": 195,
+        "priceType": "STARTS_AT",
+        "duration": 40,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15184210",
+        "name": "كلاسيك بدكير",
+        "original": "Classic Pedicure | كلاسيك بدكير",
+        "category": "بدكير",
+        "price": 149,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:17499147",
+        "name": "بدكير فوت لوجيكس",
+        "original": "Footlogix Pedicure | بدكير فوت لوجيكس",
+        "category": "بدكير",
+        "price": 250,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 85
+      },
+      {
+        "id": "s:15184283",
+        "name": "بدكير معالج للقدمين",
+        "original": "Feet Retreat Pedicure | بدكير معالج للقدمين",
+        "category": "بدكير",
+        "price": 200,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 85
+      },
+      {
+        "id": "s:15184188",
+        "name": "جل بدكير",
+        "original": "Gel Polish Pedicure | جل بدكير",
+        "category": "بدكير",
+        "price": 228,
+        "priceType": "STARTS_AT",
+        "duration": 50,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:15184292",
+        "name": "كلاسيك مناكير وبدكير",
+        "original": "Classic ManiPedi | كلاسيك مناكير وبدكير",
+        "category": "مانكير + بدكير",
+        "price": 298,
+        "priceType": "STARTS_AT",
+        "duration": 100,
+        "maxDuration": 150
+      },
+      {
+        "id": "s:15184290",
+        "name": "جل مناكير وبدكير",
+        "original": "Gel Polish ManiPedi | جل مناكير وبدكير",
+        "category": "مانكير + بدكير",
+        "price": 456,
+        "priceType": "STARTS_AT",
+        "duration": 115,
+        "maxDuration": 165
+      },
+      {
+        "id": "s:15184223",
+        "name": "بياب جل مناكير",
+        "original": "BIAB Gel Manicure | بياب جل مناكير",
+        "category": "بياب جل",
+        "price": 296,
+        "priceType": "STARTS_AT",
+        "duration": 120,
+        "maxDuration": 150
+      },
+      {
+        "id": "s:15184183",
+        "name": "ازالة بياب جل",
+        "original": "BIAB Gel Removal | ازالة بياب جل",
+        "category": "بياب جل",
+        "price": 110,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15184228",
+        "name": "إعادة تعبئة الباياب",
+        "original": "BIAB Infills | إعادة تعبئة الباياب",
+        "category": "بياب جل",
+        "price": 176,
+        "priceType": "STARTS_AT",
+        "duration": 105,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:15184191",
+        "name": "اعادة تعبئة باياب مع تنظيف",
+        "original": "BIAB Infills with Cleaning | اعادة تعبئة باياب مع تنظيف",
+        "category": "بياب جل",
+        "price": 248,
+        "priceType": "STARTS_AT",
+        "duration": 95,
+        "maxDuration": 165
+      },
+      {
+        "id": "s:15184184",
+        "name": "تركيب بياب",
+        "original": "BIAB Extensions | تركيب بياب",
+        "category": "اكستنشن أظافر",
+        "price": 448,
+        "priceType": "STARTS_AT",
+        "duration": 165,
+        "maxDuration": 180
+      },
+      {
+        "id": "s:15184214",
+        "name": "بياب اكستنشن مع تنظيف",
+        "original": "BIAB Extensions Infills with Cleaning | بياب اكستنشن مع تنظيف",
+        "category": "اكستنشن أظافر",
+        "price": 208,
+        "priceType": "STARTS_AT",
+        "duration": 85,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:15184199",
+        "name": "تركيب جل",
+        "original": "Gel Extensions | تركيب جل",
+        "category": "اكستنشن أظافر",
+        "price": 448,
+        "priceType": "STARTS_AT",
+        "duration": 180,
+        "maxDuration": 240
+      },
+      {
+        "id": "s:15184204",
+        "name": "اعادة تعبئة الجل مع تنظيف",
+        "original": "Gel Extensions Infills with Cleaning | اعادة تعبئة الجل مع تنظيف",
+        "category": "اكستنشن أظافر",
+        "price": 316,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:15184215",
+        "name": "ازالة تطويل الأظافر",
+        "original": "Extension Removal | ازالة تطويل الأظافر",
+        "category": "اكستنشن أظافر",
+        "price": 145,
+        "priceType": "FIXED",
+        "duration": 50,
+        "maxDuration": 50
+      },
+      {
+        "id": "s:15184216",
+        "name": "تركيب اطراف أظافر",
+        "original": "Nail Tips | تركيب اطراف أظافر",
+        "category": "اكستنشن أظافر",
+        "price": 176,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:15184212",
+        "name": "لون عادي",
+        "original": "Regular Polish | لون عادي",
+        "category": "الاضافات",
+        "price": 45,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:15184265",
+        "name": "لون جل",
+        "original": "Gel Polish | لون جل",
+        "category": "الاضافات",
+        "price": 100,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15184275",
+        "name": "إزالة لون الجل",
+        "original": "Gel Polish Removal | إزالة لون الجل",
+        "category": "الاضافات",
+        "price": 55,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:15184273",
+        "name": "تركيب أظافر",
+        "original": "Press-On Nails | تركيب أظافر",
+        "category": "الاضافات",
+        "price": 220,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:15184282",
+        "name": "تركيب للاصبع الواحد",
+        "original": "Press-On (per finger) | تركيب للاصبع الواحد",
+        "category": "الاضافات",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:15184230",
+        "name": "إزالة تركيب الاظافر",
+        "original": "Press-On Removal | إزالة تركيب الاظافر",
+        "category": "الاضافات",
+        "price": 145,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:15184201",
+        "name": "مساج للقدمين",
+        "original": "Foot Massage | مساج للقدمين",
+        "category": "الاضافات",
+        "price": 46,
+        "priceType": "STARTS_AT",
+        "duration": 10,
+        "maxDuration": 20
+      }
+    ],
+    "images": [
+      "/assets/wthn/0.jpg",
+      "/assets/wthn/1.jpg",
+      "/assets/wthn/2.jpg",
+      "/assets/wthn/3.jpg",
+      "/assets/wthn/4.jpg"
+    ],
+    "portfolio": [],
+    "logo": "/assets/wthn/logo.jpg",
+    "phone": "966538313030",
+    "source": "https://www.fresha.com/a/wthn-spa-riyadh-wthn-spa-w2fxr8hg",
+    "booking": "https://www.fresha.com/a/wthn-spa-riyadh-wthn-spa-w2fxr8hg/all-offer",
+    "instagram": "https://www.instagram.com/wthnspa/",
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=Wthn%20Spa%2C%206473%2C%20Riyadh%2C%2013523%2C%20Riyadh%20Province",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wthn%20Spa%2C%206473%2C%20Riyadh%2C%2013523%2C%20Riyadh%20Province",
+      "shortFormatted": "Wthn Spa, 6473, Al Malqa, Riyadh, Riyadh Province",
+      "cityName": "Riyadh",
+      "postalCode": "13523",
+      "region1": "Riyadh Province",
+      "streetAddress": "Wthn Spa",
+      "apartmentSuite": "6473",
+      "countryCode": "SA",
+      "latitude": 24.782024383544922,
+      "longitude": 46.601924896240234,
+      "simpleFormatted": "Al Malqa, Riyadh",
+      "simpleFormattedWithContext": "Al Malqa, Riyadh",
+      "servicingAreas": [
+        "Al Malqa"
+      ],
+      "nearbyServicingAreas": [
+        "Al Malqa",
+        "الرياض",
+        "الملقا",
+        "حي الملقا",
+        "2735",
+        "8672",
+        "الخبر"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.8,
+    "totalServices": 288,
+    "qualification": "قوقل ماب يربط إلى فريشا",
+    "servicesTitle": "اختياراتكِ في وذن",
+    "bookingTitle": "رتّبي زيارتكِ لوذن",
+    "visitTitle": "عنوان وذن"
+  },
+  {
+    "name": "فلير سبا",
+    "en": "Flaire",
+    "city": "الرياض",
+    "district": "الصحافة",
+    "headline": "لمسة فلير.",
+    "subhead": "لون جديد لأظافركِ أو جلسة مساج؛ مساحة صغيرة للعناية في يومكِ.",
+    "theme": "rose",
+    "layout": "portrait",
+    "hero": 2,
+    "aboutTitle": "لمسة تتذكرينها",
+    "about": "ألوان وتفاصيل للأظافر، وجلسات مساج للاسترخاء. اجمعي ما تحبين في زيارتكِ إلى فلير.",
+    "id": "flaire",
+    "services": [
+      {
+        "id": "p:1706759",
+        "name": "Relax Package",
+        "original": "Relax Package",
+        "category": "الأظافر",
+        "price": 299,
+        "priceType": "FIXED",
+        "duration": 140,
+        "maxDuration": 140
+      },
+      {
+        "id": "s:21726358",
+        "name": "تنظيف يدين و أقدام كلاسيك",
+        "original": "Classic Hands & Feet Cleaning | تنظيف يدين و أقدام كلاسيك",
+        "category": "الأظافر",
+        "price": 184,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21726356",
+        "name": "Classic Hand Cleaning، / تنظيف يد كلاسيك",
+        "original": "Classic Hand Cleaning، | تنظيف يد كلاسيك",
+        "category": "الأظافر",
+        "price": 95,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:21726336",
+        "name": "تنظيف اقدام كلاسيك",
+        "original": "Classic Foot Cleaning | تنظيف اقدام كلاسيك",
+        "category": "الأظافر",
+        "price": 99,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:23649299",
+        "name": "طلاء اظافر اليدين والقدمين .",
+        "original": "Hand & foot Nail Polish | طلاء اظافر اليدين والقدمين .",
+        "category": "الأظافر",
+        "price": 60,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:24999965",
+        "name": "Classic Hand Cleaning،regular nail polish / تنظيف يد كلاسيك شامل الون",
+        "original": " Classic Hand Cleaning،regular nail polish| تنظيف يد كلاسيك شامل الون",
+        "category": "الأظافر",
+        "price": 130,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:21726338",
+        "name": "تنظيف يدين واقدام سبا",
+        "original": "Spa Hands & Feet Cleaning  | تنظيف يدين واقدام سبا",
+        "category": "الأظافر",
+        "price": 209,
+        "priceType": "FIXED",
+        "duration": 80,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:21726351",
+        "name": "تنظيف اقدام سبا",
+        "original": "Spa Foot Cleaning | تنظيف اقدام سبا",
+        "category": "الأظافر",
+        "price": 119,
+        "priceType": "FIXED",
+        "duration": 55,
+        "maxDuration": 55
+      },
+      {
+        "id": "s:21726354",
+        "name": "تنظيف يدين واقدام روسي",
+        "original": "Russian Hands & Feet Cleaning  | تنظيف يدين واقدام روسي",
+        "category": "الأظافر",
+        "price": 199,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:21726348",
+        "name": "تنظيف يدين روسي",
+        "original": "Russian Hand Cleaning | تنظيف يدين روسي",
+        "category": "الأظافر",
+        "price": 105,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:21726342",
+        "name": "تنظيف اقدام روسي",
+        "original": "Russian Foot Cleaning | تنظيف اقدام روسي",
+        "category": "الأظافر",
+        "price": 119,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:21726347",
+        "name": "لون عادي",
+        "original": "Regular Nail Polish | لون عادي",
+        "category": "الأظافر",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:23690701",
+        "name": "تنظيف يدين و أقدام كلاسيك مع لون",
+        "original": " Classic Mani & Pedi, Nail polish ,with hand &foot massage| تنظيف يدين و أقدام كلاسيك مع لون ",
+        "category": "باقة الراحة",
+        "price": 255,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:21863900",
+        "name": "كويك فيكس اقدام .",
+        "original": " ‏Quick Fix – Feet\t| كويك فيكس اقدام .",
+        "category": "كويك فيكس",
+        "price": 85,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21863878",
+        "name": "كويك فيكس يدين",
+        "original": "  Quick Fix Hands  | كويك فيكس يدين",
+        "category": "كويك فيكس",
+        "price": 75,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21726367",
+        "name": "Quick Fix Mani & Pedi، / كويك فيكس يدين و أقدام",
+        "original": " Quick Fix Mani & Pedi،  | كويك فيكس يدين و أقدام ",
+        "category": "كويك فيكس",
+        "price": 145,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:21863126",
+        "name": "فل آرت",
+        "original": "Full Art | فل آرت",
+        "category": "فن الأظافر",
+        "price": 129,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21863068",
+        "name": "رسم على الأظافر ( للأصبع )",
+        "original": " Nail Art ( per finger ) | رسم على الأظافر ( للأصبع )",
+        "category": "فن الأظافر",
+        "price": 15,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21892569",
+        "name": "مانيكير للأطفال",
+        "original": "Little Princess Mani | مانيكير للأطفال",
+        "category": "الأميرة الصغيرة",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:21892532",
+        "name": "بديكير للأطفال",
+        "original": "Little Princess Pedi | بديكير للأطفال",
+        "category": "الأميرة الصغيرة",
+        "price": 40,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:21892622",
+        "name": "لون",
+        "original": "Little Princess Color | لون",
+        "category": "الأميرة الصغيرة",
+        "price": 23,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:21892636",
+        "name": "فن الأظافر",
+        "original": "Little Princess Nail Art | فن الأظافر",
+        "category": "الأميرة الصغيرة",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21726332",
+        "name": "رموش كلاسك",
+        "original": "Classic Lashes | رموش كلاسك",
+        "category": "الرموش الشهرية",
+        "price": 385,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:21726333",
+        "name": "رموش كات أي ( طرف)",
+        "original": "Cat Eye Lashes (Corner) | رموش كات أي ( طرف)",
+        "category": "الرموش الشهرية",
+        "price": 319,
+        "priceType": "FIXED",
+        "duration": 100,
+        "maxDuration": 100
+      },
+      {
+        "id": "s:21726330",
+        "name": "رموش فوليوم",
+        "original": "Volume Lashes | رموش فوليوم",
+        "category": "الرموش الشهرية",
+        "price": 545,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:21881280",
+        "name": "ريفيل كلاسيك",
+        "original": " Classic Refill | ريفيل كلاسيك",
+        "category": "الرموش الشهرية",
+        "price": 193,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21881426",
+        "name": "ريفيل فوليوم",
+        "original": "Volume Refill | ريفيل فوليوم ",
+        "category": "الرموش الشهرية",
+        "price": 273,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21881500",
+        "name": "إزالة الرموش",
+        "original": "Lash Remova | إزالة الرموش",
+        "category": "الرموش الشهرية",
+        "price": 174,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21726325",
+        "name": "مساج ريلاكس",
+        "original": "Relax Massage | مساج ريلاكس",
+        "category": "المساج",
+        "price": 229,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21726322",
+        "name": "مساج الأحجار الساخنه",
+        "original": "Hot Stone Massage | مساج الأحجار الساخنه",
+        "category": "المساج",
+        "price": 259,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21892412",
+        "name": "مساج عميق",
+        "original": "Deep Tissue Massage | مساج عميق",
+        "category": "المساج",
+        "price": 325,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21726331",
+        "name": "مساج جاف",
+        "original": "Dry Massage  | مساج جاف",
+        "category": "المساج",
+        "price": 199,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21726321",
+        "name": "مساج كاسات الهواء",
+        "original": "Air Cupping Massage | مساج كاسات الهواء",
+        "category": "المساج",
+        "price": 269,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21892443",
+        "name": "مساج كاسات الهواء الساخنة",
+        "original": "Heated Air Cupping Massage | مساج كاسات الهواء الساخنة",
+        "category": "المساج",
+        "price": 320,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21892398",
+        "name": "مساج كاسات الهواء مع زنجبيل",
+        "original": "Ginger Air Cupping Massage | مساج كاسات الهواء مع زنجبيل",
+        "category": "المساج",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21726329",
+        "name": "مساج مكس",
+        "original": "Stretch & Relax Massage | مساج مكس ",
+        "category": "المساج",
+        "price": 299,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21892372",
+        "name": "مساج لمفاوي",
+        "original": "Lymphatic Flow Massage | مساج لمفاوي ",
+        "category": "المساج",
+        "price": 390,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:21726326",
+        "name": "مساج اليدين والأقدام",
+        "original": "Hands & Feet Massage | مساج اليدين والأقدام",
+        "category": "المساج",
+        "price": 110,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21864416",
+        "name": "مساج الأقدام",
+        "original": "Foot Massage ‎ | مساج الأقدام\t",
+        "category": "المساج",
+        "price": 59,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:21726324",
+        "name": "مساج يدين",
+        "original": "Relaxing massage for hands | مساج يدين ",
+        "category": "المساج",
+        "price": 59,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:23016801",
+        "name": "احتفالك الخاص 3",
+        "original": "احتفالك الخاص 3",
+        "category": "باقة الاحتفال المميزة",
+        "price": 65,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23016760",
+        "name": "احتفالك الخاص 2",
+        "original": "احتفالك الخاص 2",
+        "category": "باقة الاحتفال المميزة",
+        "price": 140,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:22859699",
+        "name": "( باقة احتفال مميزة ) Mani & pedi ,With Nail polish / تنظيف يدين واقدام كلاسيك مع لون",
+        "original": "( باقة احتفال مميزة ) Mani & pedi ,With Nail polish | تنظيف يدين واقدام كلاسيك مع لون",
+        "category": "باقة الاحتفال المميزة",
+        "price": 380,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:22385888",
+        "name": "احتفالك الخاص",
+        "original": "احتفالك الخاص",
+        "category": "باقة الاحتفال المميزة",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:22503944",
+        "name": "لون جل",
+        "original": "Gel Color | لون جل",
+        "category": "عروض .",
+        "price": 99,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      }
+    ],
+    "images": [
+      "/assets/flaire/0.jpg",
+      "/assets/flaire/1.jpg",
+      "/assets/flaire/2.jpg",
+      "/assets/flaire/3.jpg"
+    ],
+    "portfolio": [],
+    "logo": null,
+    "phone": "966557349977",
+    "source": "https://www.fresha.com/a/flaire-spa-lryd-flaire-spa-hy-sj8nsilo",
+    "booking": "https://www.fresha.com/a/flaire-spa-lryd-flaire-spa-hy-sj8nsilo/all-offer",
+    "instagram": null,
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=Flaire%20Spa%2C%20%D8%AD%D9%8A%2C%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%2C%2013315%2C%20%D9%85%D9%86%D8%B7%D9%82%D8%A9%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flaire%20Spa%2C%20%D8%AD%D9%8A%2C%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%2C%2013315%2C%20%D9%85%D9%86%D8%B7%D9%82%D8%A9%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+      "shortFormatted": "Flaire Spa, حي, الصحافة, الرياض, منطقة الرياض",
+      "cityName": "الرياض",
+      "postalCode": "13315",
+      "region1": "منطقة الرياض",
+      "streetAddress": "Flaire Spa, حي",
+      "apartmentSuite": null,
+      "countryCode": "SA",
+      "latitude": 24.795534133911133,
+      "longitude": 46.636146545410156,
+      "simpleFormatted": "الصحافة, الرياض",
+      "simpleFormattedWithContext": "الصحافة, الرياض",
+      "servicingAreas": [
+        "As Sahafah"
+      ],
+      "nearbyServicingAreas": [
+        "As Sahafah",
+        "Alyasmin",
+        "الصحافة",
+        "الرياض",
+        "حي الصحافة",
+        "Al Yasmeen",
+        "4445،"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "12:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 PM - 10:00 PM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.7,
+    "totalServices": 63,
+    "qualification": "قوقل ماب يربط إلى فريشا",
+    "servicesTitle": "خدمات فلير وأسعارها",
+    "bookingTitle": "احجزي وقتًا لكِ",
+    "visitTitle": "زورينا في الصحافة"
+  },
+  {
+    "name": "ترفه سبا",
+    "en": "Tarfah",
+    "city": "جدة",
+    "district": "شارع حلمي كتبي",
+    "headline": "أهلًا بكِ في ترفه.",
+    "subhead": "حمام مغربي وعناية بالشعر والأظافر. تفاصيل الزيارة تبدأ باختياركِ.",
+    "theme": "clay",
+    "layout": "arch",
+    "hero": 0,
+    "aboutTitle": "للعناية مكان في يومكِ",
+    "about": "اختاري من خدمات الحمام المغربي والمساج، أو امنحي شعركِ وأظافركِ عناية تكمل إطلالتكِ.",
+    "id": "tarfah",
+    "services": [
+      {
+        "id": "s:24454548",
+        "name": "بديكير ومنيكير كلاسيك",
+        "original": "Classic Pedicure and Manicure | بديكير ومنيكير كلاسيك",
+        "category": "الأظافر",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24454524",
+        "name": "بديكير ومنيكير ترفه سبا",
+        "original": "Spa Pedicure and Manicure | بديكير ومنيكير ترفه سبا",
+        "category": "الأظافر",
+        "price": 220,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24454534",
+        "name": "لون (يد)",
+        "original": "Nail Polish (Hands) | لون (يد)",
+        "category": "الأظافر",
+        "price": 28,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:24454531",
+        "name": "لون (قدم)",
+        "original": "Nail Polish (Feet) | لون (قدم)",
+        "category": "الأظافر",
+        "price": 28,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:24454522",
+        "name": "لون جل عادي (يد)",
+        "original": "Gel Polish (Hands) | لون جل عادي (يد)",
+        "category": "الأظافر",
+        "price": 80,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24454519",
+        "name": "لون جل عادي (قدم)",
+        "original": "Gel Polish (Feet) | لون جل عادي (قدم)",
+        "category": "الأظافر",
+        "price": 80,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24874532",
+        "name": "إزالة لون جل يد",
+        "original": " إزالة لون جل يد |  Gel Removel (Hand)",
+        "category": "الأظافر",
+        "price": 60,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:24648388",
+        "name": "إزالة لون جل قدم",
+        "original": "إزالة لون جل قدم | Gel Removel (Feet)",
+        "category": "الأظافر",
+        "price": 60,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:25014815",
+        "name": "ازالة اظافر اسبوعية",
+        "original": "ازالة اظافر اسبوعية",
+        "category": "الأظافر",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24454507",
+        "name": "إزالة الجل إكستنشن",
+        "original": "Gel Extension Removal | إزالة الجل إكستنشن",
+        "category": "الأظافر",
+        "price": 175,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24454551",
+        "name": "ازاله بياب",
+        "original": "BIAB Removal | ازاله بياب",
+        "category": "الأظافر",
+        "price": 80,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24454547",
+        "name": "بديكير كلاسيك (قدم)",
+        "original": "Classic Pedicure (Feet) | بديكير كلاسيك (قدم)",
+        "category": "الأظافر",
+        "price": 80,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:24454967",
+        "name": "استشوار",
+        "original": "Blow Dry  | استشوار",
+        "category": "الشعر",
+        "price": 60,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:24454928",
+        "name": "استشوار ويفي",
+        "original": "Wavy Blow Dry | استشوار ويفي",
+        "category": "الشعر",
+        "price": 75,
+        "priceType": "STARTS_AT",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:24712743",
+        "name": "استشوار اكستنشن",
+        "original": "استشوار اكستنشن",
+        "category": "الشعر",
+        "price": 120,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24454585",
+        "name": "قص كامل الشعر",
+        "original": "Full Haircut | قص كامل الشعر",
+        "category": "الشعر",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24454973",
+        "name": "قص ماكينة",
+        "original": "Machine Haircut | قص ماكينة",
+        "category": "الشعر",
+        "price": 100,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24454972",
+        "name": "قص أطراف",
+        "original": "Hair Trim | قص أطراف",
+        "category": "الشعر",
+        "price": 50,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:24454969",
+        "name": "قص الغرة",
+        "original": "Bangs Cut | قص الغرة",
+        "category": "الشعر",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:24454599",
+        "name": "فير الشعر",
+        "original": "Curling  | فير الشعر",
+        "category": "الشعر",
+        "price": 120,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24454596",
+        "name": "تسريحة شعر",
+        "original": "Hairstyling | تسريحة شعر",
+        "category": "الشعر",
+        "price": 180,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24454583",
+        "name": "غسيل الشعر المعالج",
+        "original": "(Treatment) Hair Wash | غسيل الشعر المعالج",
+        "category": "الشعر",
+        "price": 50,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24454577",
+        "name": "غسيل شعر",
+        "original": "Hair Wash (Basic) | غسيل شعر",
+        "category": "الشعر",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24454576",
+        "name": "استشوار غره",
+        "original": "Bangs Blow Dry | استشوار غره",
+        "category": "الشعر",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24454422",
+        "name": "رنساج",
+        "original": "Hair Toner | رنساج",
+        "category": "الصبغات",
+        "price": 150,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24454437",
+        "name": "صبغة جذور",
+        "original": "Root Color  | صبغة جذور",
+        "category": "الصبغات",
+        "price": 140,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24454420",
+        "name": "صبغة الشعر لون واحد",
+        "original": "Single Color Hair Dye  | صبغة الشعر لون واحد ",
+        "category": "الصبغات",
+        "price": 250,
+        "priceType": "STARTS_AT",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:24454414",
+        "name": "هايلايت أو لولايت أو أمبريه",
+        "original": "Highlights / Lowlights / Ombre | هايلايت أو لولايت أو أمبريه ",
+        "category": "الصبغات",
+        "price": 400,
+        "priceType": "STARTS_AT",
+        "duration": 150,
+        "maxDuration": 150
+      },
+      {
+        "id": "s:24648467",
+        "name": "ترطيب الشعر العادي",
+        "original": "ترطيب الشعر العادي",
+        "category": "المعالجات",
+        "price": 149,
+        "priceType": "FIXED",
+        "duration": 25,
+        "maxDuration": 25
+      },
+      {
+        "id": "s:24454394",
+        "name": "تنظيف فروة الرأس",
+        "original": "Scalp Cleansing | تنظيف فروة الرأس",
+        "category": "المعالجات",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24454392",
+        "name": "ترميم الشعر التالف",
+        "original": "Hair Repair Treatment | ترميم الشعر التالف",
+        "category": "المعالجات",
+        "price": 250,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24454397",
+        "name": "تنظيف فروة الرأس العميق",
+        "original": "Deep Scalp Cleansing | تنظيف فروة الرأس العميق",
+        "category": "المعالجات",
+        "price": 200,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24454390",
+        "name": "معالج تهدئة النفشه",
+        "original": " Treatment  | معالج تهدئة النفشه ",
+        "category": "المعالجات",
+        "price": 250,
+        "priceType": "STARTS_AT",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:24454382",
+        "name": "معالج البوتوكس",
+        "original": "Botox Hair Treatment  | معالج البوتوكس",
+        "category": "المعالجات",
+        "price": 400,
+        "priceType": "STARTS_AT",
+        "duration": 180,
+        "maxDuration": 180
+      },
+      {
+        "id": "s:24454375",
+        "name": "معالج البلازما",
+        "original": "Plasma Hair Treatment | معالج البلازما ",
+        "category": "المعالجات",
+        "price": 500,
+        "priceType": "STARTS_AT",
+        "duration": 180,
+        "maxDuration": 180
+      },
+      {
+        "id": "s:24454350",
+        "name": "تنظيف البشره العادي",
+        "original": "Basic Facial Cleansing | تنظيف البشره العادي",
+        "category": "العناية بالوجه والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24454344",
+        "name": "تنظيف البشره العميق",
+        "original": "Deep Facial Cleansing | تنظيف البشره العميق",
+        "category": "العناية بالوجه والجسم",
+        "price": 250,
+        "priceType": "FIXED",
+        "duration": 75,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:24454342",
+        "name": "تنظيف البشره العميق (PH)",
+        "original": "Deep Facial Cleansing (PH) | تنظيف البشره العميق (PH)",
+        "category": "العناية بالوجه والجسم",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:24454340",
+        "name": "تنظيف البشره العميق (Deep Glow Therapy)",
+        "original": "Deep Facial Cleansing (Deep Glow Therapy) | تنظيف البشره العميق (Deep Glow Therapy)",
+        "category": "العناية بالوجه والجسم",
+        "price": 450,
+        "priceType": "FIXED",
+        "duration": 95,
+        "maxDuration": 95
+      },
+      {
+        "id": "s:24454337",
+        "name": "فتله الوجه",
+        "original": "Full Face Threading | فتله الوجه",
+        "category": "العناية بالوجه والجسم",
+        "price": 60,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:24454335",
+        "name": "تشقير حواجب",
+        "original": "Eyebrow  | تشقير حواجب",
+        "category": "العناية بالوجه والجسم",
+        "price": 45,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24454334",
+        "name": "صبغة حواجب",
+        "original": "Eyebrow Tinting | صبغة حواجب",
+        "category": "العناية بالوجه والجسم",
+        "price": 45,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24454328",
+        "name": "فتله شنب",
+        "original": "Upper Lip Threading | فتله شنب",
+        "category": "العناية بالوجه والجسم",
+        "price": 28,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24454326",
+        "name": "واكس أنف",
+        "original": "Nose Wax | واكس أنف",
+        "category": "العناية بالوجه والجسم",
+        "price": 23,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24454324",
+        "name": "واكس أو فتلة دقن",
+        "original": "Chin Wax or Threading | واكس أو فتلة دقن",
+        "category": "العناية بالوجه والجسم",
+        "price": 28,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24454323",
+        "name": "واكس جسم كامل",
+        "original": "Full Body Wax | واكس جسم كامل",
+        "category": "العناية بالوجه والجسم",
+        "price": 349,
+        "priceType": "FIXED",
+        "duration": 95,
+        "maxDuration": 95
+      },
+      {
+        "id": "s:24454321",
+        "name": "واكس اليد",
+        "original": "Arm Wax | واكس اليد ",
+        "category": "العناية بالوجه والجسم",
+        "price": 39,
+        "priceType": "STARTS_AT",
+        "duration": 20,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24453999",
+        "name": "رموش أسبوعية",
+        "original": "Weekly Lashes | رموش أسبوعية",
+        "category": "الرموش",
+        "price": 135,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24453996",
+        "name": "رموش طرف شهرية",
+        "original": "Monthly Outer Corner Lashes | رموش طرف شهرية",
+        "category": "الرموش",
+        "price": 159,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24453991",
+        "name": "كلاسيك رموش شهرية",
+        "original": "Monthly Classic Lashes | كلاسيك رموش شهرية",
+        "category": "الرموش",
+        "price": 259,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:24453989",
+        "name": "هايبرد رموش شهرية",
+        "original": "Monthly Hybrid Lashes | هايبرد رموش شهرية",
+        "category": "الرموش",
+        "price": 325,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:24453987",
+        "name": "وسبي لاش رموش شهرية",
+        "original": "Monthly Wispy Lashes | وسبي لاش رموش شهرية",
+        "category": "الرموش",
+        "price": 349,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:24454014",
+        "name": "ريفيل رموش كلاسيك شهري",
+        "original": "Monthly Classic Lashes Refill | ريفيل رموش كلاسيك شهري",
+        "category": "الرموش",
+        "price": 130,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24454001",
+        "name": "ريفيل رموش هايبرد",
+        "original": "Monthly Hybrid Lashes Refill | ريفيل رموش هايبرد",
+        "category": "الرموش",
+        "price": 160,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:24454008",
+        "name": "ريفيل وسبي",
+        "original": "Wispy Lashes Refill | ريفيل وسبي",
+        "category": "الرموش",
+        "price": 175,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:24453984",
+        "name": "مكس رموش كلاسيك",
+        "original": "Classic Mix Lashes | مكس رموش كلاسيك",
+        "category": "الرموش",
+        "price": 299,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:24453982",
+        "name": "فوليوم شهرية",
+        "original": "Monthly Volume Refill | فوليوم شهرية",
+        "category": "الرموش",
+        "price": 399,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:24453979",
+        "name": "إزالة رموش",
+        "original": "Lashes Extension Removal | إزالة رموش",
+        "category": "الرموش",
+        "price": 75,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24454990",
+        "name": "حمام مغربي كلاسيك",
+        "original": "Classic Moroccan Bath  | حمام مغربي كلاسيك ",
+        "category": "الحمام المغربي",
+        "price": 119,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24546477",
+        "name": "حمام بالنيلة الزرقاء",
+        "original": "Blue Indigo Moroccan Bath | حمام بالنيلة الزرقاء",
+        "category": "الحمام المغربي",
+        "price": 139,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:25450445",
+        "name": "حمام مغربي بالعكر الفاسي",
+        "original": "Moroccan Bath with Aker Fassi | حمام مغربي بالعكر الفاسي",
+        "category": "الحمام المغربي",
+        "price": 139,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:25450428",
+        "name": "حمام مغربي بالأعشاب",
+        "original": "Herbal Moroccan Bath | حمام مغربي بالأعشاب",
+        "category": "الحمام المغربي",
+        "price": 149,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:25450391",
+        "name": "حمام ملكي",
+        "original": "\\\\Royal Moroccan Bath | حمام ملكي",
+        "category": "الحمام المغربي",
+        "price": 289,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24455008",
+        "name": "مساج استرخائي",
+        "original": "Relaxing Massage | مساج استرخائي",
+        "category": "المساج",
+        "price": 179,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24455007",
+        "name": "مساج عميق",
+        "original": "Deep Massage | مساج عميق",
+        "category": "المساج",
+        "price": 200,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24455003",
+        "name": "مساج الأحجار الساخنة",
+        "original": "Hot Stone Massage | مساج الأحجار الساخنة",
+        "category": "المساج",
+        "price": 311,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24455015",
+        "name": "مساج الاقدام",
+        "original": "Foot Massage | مساج الاقدام",
+        "category": "المساج",
+        "price": 80,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24454997",
+        "name": "مساج رقبه واكتاف",
+        "original": "Neck and Shoulder Massage | مساج رقبه واكتاف",
+        "category": "المساج",
+        "price": 89,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24454999",
+        "name": "مساج علاجي",
+        "original": "Therapeutic Massage | مساج علاجي",
+        "category": "المساج",
+        "price": 250,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:24455005",
+        "name": "مساج الحوامل",
+        "original": "Pregnant Massage | مساج الحوامل",
+        "category": "المساج",
+        "price": 299,
+        "priceType": "FIXED",
+        "duration": 70,
+        "maxDuration": 70
+      },
+      {
+        "id": "s:24455009",
+        "name": "مساج لمفاوي",
+        "original": "Lymphatic Massage | مساج لمفاوي",
+        "category": "المساج",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24455001",
+        "name": "مساج كومبو",
+        "original": "Combo Massage | مساج كومبو",
+        "category": "المساج",
+        "price": 425,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      }
+    ],
+    "images": [
+      "/assets/tarfah/0.jpg",
+      "/assets/tarfah/1.jpg",
+      "/assets/tarfah/2.jpg",
+      "/assets/tarfah/3.jpg",
+      "/assets/tarfah/4.jpg",
+      "/assets/tarfah/5.jpg"
+    ],
+    "portfolio": [],
+    "logo": null,
+    "phone": "966504695555",
+    "source": "https://www.fresha.com/a/tarfah-spa-trfh-sb-jeddah-slwn-trfh-sb-helmi-koutbi-street-jeddah-23521-saudi-arabia-q1iznhzr",
+    "booking": "https://www.fresha.com/a/tarfah-spa-trfh-sb-jeddah-slwn-trfh-sb-helmi-koutbi-street-jeddah-23521-saudi-arabia-q1iznhzr/all-offer",
+    "instagram": null,
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=%D8%B5%D8%A7%D9%84%D9%88%D9%86%20%D8%AA%D8%B1%D9%81%D9%87%20%D8%B3%D8%A8%D8%A7%2C%20Helmi%20Koutbi%2C%20street%2C%20Jeddah%2023521%2C%20Saudi%20Arabia%2C%20Jeddah%2C%20%2023521%2C%20Makkah%20Province",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%D8%B5%D8%A7%D9%84%D9%88%D9%86%20%D8%AA%D8%B1%D9%81%D9%87%20%D8%B3%D8%A8%D8%A7%2C%20Helmi%20Koutbi%2C%20street%2C%20Jeddah%2023521%2C%20Saudi%20Arabia%2C%20Jeddah%2C%20%2023521%2C%20Makkah%20Province",
+      "shortFormatted": "صالون ترفه سبا, Helmi Koutbi, street, Jeddah 23521, Saudi Arabia, Jeddah, Jeddah, Makkah Province",
+      "cityName": "Jeddah",
+      "postalCode": " 23521",
+      "region1": "Makkah Province",
+      "streetAddress": "صالون ترفه سبا, Helmi Koutbi, street, Jeddah 23521, Saudi Arabia",
+      "apartmentSuite": null,
+      "countryCode": "SA",
+      "latitude": 21.591812133789062,
+      "longitude": 39.131813049316406,
+      "simpleFormatted": "Jeddah, Jeddah",
+      "simpleFormattedWithContext": "Jeddah, Jeddah",
+      "servicingAreas": [
+        "Al Zahra"
+      ],
+      "nearbyServicingAreas": [
+        "Al Zahra",
+        "AZ Zahra District",
+        "حي الزهراء",
+        "St",
+        "Branch",
+        "فرعي"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.7,
+    "totalServices": 139,
+    "qualification": "لا يوجد رابط موقع في ملف قوقل ماب",
+    "servicesTitle": "قائمة العناية",
+    "bookingTitle": "زيارتكِ القادمة إلى ترفه",
+    "visitTitle": "ترفه، جدة"
+  },
+  {
+    "name": "بيس كوت",
+    "en": "Base Coat",
+    "city": "جدة",
+    "district": "الروضة",
+    "headline": "لونكِ المفضّل يبدأ هنا.",
+    "subhead": "عناية بالأظافر وطلاء وفن أظافر، في بيس كوت بالروضة.",
+    "theme": "blue",
+    "layout": "gallery",
+    "hero": 1,
+    "aboutTitle": "الجمال في التفاصيل",
+    "about": "عناية كلاسيكية، جل، إكستنشن وتفاصيل فنية. استكشفي خدمات بيس كوت واختاري أسلوبكِ.",
+    "id": "basecoat",
+    "services": [
+      {
+        "id": "s:24138489",
+        "name": "تشكيل حواجب وصبغة حواجب",
+        "original": "Eyebrow Tint & Clean | تشكيل حواجب وصبغة حواجب ",
+        "category": "إزالة الشعر",
+        "price": 100,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24138499",
+        "name": "إزالة شعر الوجه",
+        "original": "Full Face Threading | إزالة شعر الوجه ",
+        "category": "إزالة الشعر",
+        "price": 100,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24138482",
+        "name": "تشكيل حواجب",
+        "original": "Eyebrow Threading | تشكيل حواجب",
+        "category": "إزالة الشعر",
+        "price": 75,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24138486",
+        "name": "صبغة حواجب",
+        "original": "Eyebrow Tinting | صبغة حواجب",
+        "category": "إزالة الشعر",
+        "price": 65,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24138510",
+        "name": "إزالة شعر الشفة العلوية",
+        "original": "Upper Lip Threading | إزالة شعر الشفة العلوية ",
+        "category": "إزالة الشعر",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "p:1753058",
+        "name": "Not So Base-ic Birthday Edition",
+        "original": "Not So Base-ic Birthday Edition",
+        "category": "تجربة بيس كوت",
+        "price": 320,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "p:1753057",
+        "name": "Not So Base-ic Grad Edition",
+        "original": "Not So Base-ic Grad Edition",
+        "category": "تجربة بيس كوت",
+        "price": 740,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "p:1753051",
+        "name": "Not So Base-ic Bride Edition",
+        "original": "Not So Base-ic Bride Edition",
+        "category": "تجربة بيس كوت",
+        "price": 1230,
+        "priceType": "FIXED",
+        "duration": 135,
+        "maxDuration": 135
+      },
+      {
+        "id": "s:7249492",
+        "name": "بمبر مي يدين قدمين",
+        "original": "Pamper Me Mani and Pedi | بمبر مي يدين قدمين",
+        "category": "المناكير والبديكير",
+        "price": 390,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:6592750",
+        "name": "بمبر مي قدمين",
+        "original": "Pamper Me Pedi | بمبر مي قدمين",
+        "category": "المناكير والبديكير",
+        "price": 230,
+        "priceType": "FIXED",
+        "duration": 80,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:6592726",
+        "name": "بمبر مي يدين",
+        "original": "Pamper Me Mani | بمبر مي يدين",
+        "category": "المناكير والبديكير",
+        "price": 207,
+        "priceType": "FIXED",
+        "duration": 80,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:6565851",
+        "name": "بيسك يدين قدمين",
+        "original": "Base-ic Mani and Pedi | بيسك يدين قدمين",
+        "category": "المناكير والبديكير",
+        "price": 230,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:6592712",
+        "name": "بيسك قدمين",
+        "original": "Base-ic Pedi | بيسك قدمين",
+        "category": "المناكير والبديكير",
+        "price": 149,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:6592707",
+        "name": "بيسك يدين",
+        "original": "Base-ic Mani | بيسك يدين",
+        "category": "المناكير والبديكير",
+        "price": 138,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:7249522",
+        "name": "الخدمة السريعة يدين قدمين",
+        "original": "In a Hurry Mani and Pedi |  الخدمة السريعة يدين قدمين",
+        "category": "المناكير والبديكير",
+        "price": 200,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:6592778",
+        "name": "الخدمة السريعة يدين",
+        "original": "In a Hurry! Mani |  الخدمة السريعة يدين",
+        "category": "المناكير والبديكير",
+        "price": 110,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:6565944",
+        "name": "الخدمة السريعة قدمين",
+        "original": "In a Hurry! Pedi | الخدمة السريعة قدمين",
+        "category": "المناكير والبديكير",
+        "price": 110,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:7208037",
+        "name": "١٠ دقائق مساج اليدين",
+        "original": "10 minute hand massage|١٠ دقائق مساج اليدين",
+        "category": "المناكير والبديكير",
+        "price": 54,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:7246251",
+        "name": "١٠ دقائق مساج للقدمين",
+        "original": "10 minute foot massage|١٠ دقائق مساج للقدمين",
+        "category": "المناكير والبديكير",
+        "price": 76,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23803284",
+        "name": "Gel Extensions + French / Chrome / Gel Color",
+        "original": "Gel Extensions + French / Chrome / Gel Color",
+        "category": "إكستنشن الأظافر",
+        "price": 610,
+        "priceType": "FIXED",
+        "duration": 135,
+        "maxDuration": 135
+      },
+      {
+        "id": "s:18144425",
+        "name": "تركيب اظافر",
+        "original": "Gel Extensions Full Set\\Refill | تركيب اظافر ",
+        "category": "إكستنشن الأظافر",
+        "price": 510,
+        "priceType": "STARTS_AT",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:18144411",
+        "name": "تركيب اظفر 1",
+        "original": "1 Nail Gel Extension | تركيب اظفر 1 ",
+        "category": "إكستنشن الأظافر",
+        "price": 50,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:23803314",
+        "name": "Gel Ex Press-On + French / Chrome / Gel Color",
+        "original": "Gel Ex Press-On + French / Chrome / Gel Color",
+        "category": "إكستنشن الأظافر",
+        "price": 330,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:6566183",
+        "name": "تركيب اظافر اصطناعية مؤقتة",
+        "original": "Gel Ex Press-On | تركيب اظافر اصطناعية مؤقتة ",
+        "category": "إكستنشن الأظافر",
+        "price": 230,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:18144578",
+        "name": "1 تركيب اظفر اصطناعية مؤقتة",
+        "original": "1 Gel Ex Press-On Nail | 1 تركيب اظفر اصطناعية مؤقتة ",
+        "category": "إكستنشن الأظافر",
+        "price": 34,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:15788433",
+        "name": "إزالة اكستنشن / بياب / هارد جل",
+        "original": "Extensions | BIAB | Hard Gel | Press-On Removal | إزالة اكستنشن | بياب | هارد جل ",
+        "category": "إكستنشن الأظافر",
+        "price": 172,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:23803224",
+        "name": "BIAB Overlay + French / Chrome / Gel Color",
+        "original": "BIAB Overlay + French / Chrome / Gel Color",
+        "category": "بياب",
+        "price": 430,
+        "priceType": "FIXED",
+        "duration": 135,
+        "maxDuration": 135
+      },
+      {
+        "id": "s:18144601",
+        "name": "اوفرلاي / تعبئة بياب جل",
+        "original": "BIAB Overlay Full Set/Refill | اوفرلاي/تعبئة بياب جل ",
+        "category": "بياب",
+        "price": 330,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:18144619",
+        "name": "اوفرلاي بياب جل",
+        "original": "1 Nail BIAB Overlay | اوفرلاي بياب جل ",
+        "category": "بياب",
+        "price": 50,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:6566085",
+        "name": "لون جل",
+        "original": "Color Gel | لون جل",
+        "category": "الطلاء والتصميم",
+        "price": 180,
+        "priceType": "STARTS_AT",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:15788461",
+        "name": "إزالة لون جل",
+        "original": "Gel Color Removal | إزالة لون جل",
+        "category": "الطلاء والتصميم",
+        "price": 69,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:6566066",
+        "name": "لون عادي",
+        "original": "Color Regular | لون عادي",
+        "category": "الطلاء والتصميم",
+        "price": 55,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:6566163",
+        "name": "الرسم المعقد / جل",
+        "original": "Extra-vagant| Gel|الرسم المعقد | جل",
+        "category": "الطلاء والتصميم",
+        "price": 56,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:6566133",
+        "name": "الرسم / جل",
+        "original": "Nail Art | Gel|الرسم |جل ",
+        "category": "الطلاء والتصميم",
+        "price": 34.5,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:6566124",
+        "name": "الرسم / عادي",
+        "original": "Nail Art | Regular|الرسم | عادي ",
+        "category": "الطلاء والتصميم",
+        "price": 20.7,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 90
+      }
+    ],
+    "images": [
+      "/assets/basecoat/0.jpg",
+      "/assets/basecoat/1.jpg",
+      "/assets/basecoat/2.jpg",
+      "/assets/basecoat/3.jpg",
+      "/assets/basecoat/4.jpg"
+    ],
+    "portfolio": [],
+    "logo": null,
+    "phone": "966505999627",
+    "source": "https://www.fresha.com/a/base-coat-nail-spa-jeddah-3940-al-rawdhah-rbwufloi",
+    "booking": "https://www.fresha.com/a/base-coat-nail-spa-jeddah-3940-al-rawdhah-rbwufloi/all-offer",
+    "instagram": null,
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=3940%20Al%20Rawdhah%2C%20303%2C%20Jeddah%2C%2023433%2C%20Makkah%20Province",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3940%20Al%20Rawdhah%2C%20303%2C%20Jeddah%2C%2023433%2C%20Makkah%20Province",
+      "shortFormatted": "3940 Al Rawdhah, 303, Ar Rawdah, Jeddah, Makkah Province",
+      "cityName": "Jeddah",
+      "postalCode": "23433",
+      "region1": "Makkah Province",
+      "streetAddress": "3940 Al Rawdhah",
+      "apartmentSuite": "303",
+      "countryCode": "SA",
+      "latitude": 21.562070846557617,
+      "longitude": 39.16128158569336,
+      "simpleFormatted": "Ar Rawdah, Jeddah",
+      "simpleFormattedWithContext": "Ar Rawdah, Jeddah",
+      "servicingAreas": [
+        "Ar Rawdah"
+      ],
+      "nearbyServicingAreas": [
+        "Ar Rawdah",
+        "Jeddah",
+        "جدة",
+        "AR Rawdah District",
+        "الروضة",
+        "حي الروضة",
+        "AR Rawdah District",
+        "الروضة",
+        "حي الروضة"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": true,
+        "isToday": false,
+        "values": [
+          {
+            "value": "Closed"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "10:00 AM - 10:00 PM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.8,
+    "totalServices": 42,
+    "qualification": "قوقل ماب يربط إلى فريشا",
+    "servicesTitle": "قائمة الأظافر",
+    "bookingTitle": "اختاري لونكِ وموعدكِ",
+    "visitTitle": "بيس كوت، الروضة"
+  },
+  {
+    "name": "قلو داي سبا",
+    "en": "Glow Day",
+    "city": "الرياض",
+    "district": "العقيق",
+    "headline": "وقفة هادئة في يومكِ.",
+    "subhead": "مساج وحمام مغربي، وعناية بالشعر والبشرة في قلو داي.",
+    "theme": "ink",
+    "layout": "cinema",
+    "hero": 4,
+    "aboutTitle": "هدوء يليق بيومكِ",
+    "about": "اختاري تجربتكِ بين الحمام المغربي والعناية بالشعر وجلسات المساج، واستمتعي بوقت تخصصينه لنفسكِ.",
+    "id": "glowday",
+    "services": [
+      {
+        "id": "s:24653173",
+        "name": "حلاوة اندر ارم",
+        "original": "حلاوة  اندر ارم ",
+        "category": "العناية بالجسم",
+        "price": 60,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24653154",
+        "name": "حلاوة قدمين نص",
+        "original": "حلاوة قدمين  نص",
+        "category": "العناية بالجسم",
+        "price": 100,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24653141",
+        "name": "حلاوة يدين نص",
+        "original": "حلاوة  يدين  نص  ",
+        "category": "العناية بالجسم",
+        "price": 100,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:24653121",
+        "name": "حلاوة فل بدي",
+        "original": "حلاوة فل بدي ",
+        "category": "العناية بالجسم",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24151139",
+        "name": "مايكرو ( مع جلسة اعادة )",
+        "original": "Micro ( with Retouch ) / مايكرو ( مع جلسة اعادة ) ",
+        "category": "مايكروبليدينغ",
+        "price": 1500,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24136941",
+        "name": "تريندي شعر طويل جدا",
+        "original": "Trendy . XL . Hair / تريندي شعر طويل جدا ",
+        "category": "معالج بارد",
+        "price": 750,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24136892",
+        "name": "تريندي شعر طويل",
+        "original": "Trendy . L . Hair / تريندي شعر طويل ",
+        "category": "معالج بارد",
+        "price": 580,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24136848",
+        "name": "تريندي شعر متوسط",
+        "original": "Trendy . M. Hair /  تريندي شعر متوسط ",
+        "category": "معالج بارد",
+        "price": 450,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:24136786",
+        "name": "تريندي شعر قصير",
+        "original": "Trendy  . S . hair / تريندي شعر قصير ",
+        "category": "معالج بارد",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:18092943",
+        "name": "ماسك اولوفيرا طبيعي",
+        "original": "Root Dye (Ammonia-Free) | ماسك اولوفيرا طبيعي",
+        "category": "معالج بارد",
+        "price": 230,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092938",
+        "name": "هايلايت",
+        "original": "Color Dye and Highlights | هايلايت ",
+        "category": "هايلايت",
+        "price": 850,
+        "priceType": "STARTS_AT",
+        "duration": 90,
+        "maxDuration": 135
+      },
+      {
+        "id": "s:24026813",
+        "name": "قص بوي",
+        "original": "Hair cut Boy/ قص بوي",
+        "category": "قص الشعر",
+        "price": 170,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026800",
+        "name": "قص اطراف",
+        "original": "Hair cut lairs/ قص اطراف ",
+        "category": "قص الشعر",
+        "price": 58,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:24026775",
+        "name": "قص شعر ستايل",
+        "original": "Hair cut style/ قص شعر ستايل ",
+        "category": "قص الشعر",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:24026329",
+        "name": "تسريحة شعر طويل جدا",
+        "original": "Hair style very long hair/ تسريحة شعر طويل جدا ",
+        "category": "تسريحة",
+        "price": 400,
+        "priceType": "FIXED",
+        "duration": 75,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:24026302",
+        "name": "تسريحة شعر طويل",
+        "original": "Hair style long hair/ تسريحة شعر طويل ",
+        "category": "تسريحة",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 70,
+        "maxDuration": 70
+      },
+      {
+        "id": "s:24026293",
+        "name": "تسريحة شعر متوسط",
+        "original": "Hair style medium Hair/تسريحة شعر متوسط ",
+        "category": "تسريحة",
+        "price": 260,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026254",
+        "name": "تسريحة شعر قصير",
+        "original": "Hair stule  short hair/ تسريحة شعر قصير ",
+        "category": "تسريحة",
+        "price": 230,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026168",
+        "name": "ريترو شعر طويل جدا",
+        "original": "Retro very  long hair/ ريترو شعر طويل جدا ",
+        "category": "ريترو",
+        "price": 360,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026153",
+        "name": "ريترو شعر طويل",
+        "original": "Retro  long hair / ريترو شعر طويل ",
+        "category": "ريترو",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026145",
+        "name": "ريترو شعر متوسط",
+        "original": "Retro medium hair/ ريترو شعر متوسط ",
+        "category": "ريترو",
+        "price": 260,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026129",
+        "name": "ريترو شعر قصير",
+        "original": "Retro  short hair/ ريترو شعر قصير ",
+        "category": "ريترو",
+        "price": 230,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026087",
+        "name": "ويفي طويل جدا",
+        "original": "wive very long hair/ ويفي طويل جدا ",
+        "category": "ويفي فير",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026073",
+        "name": "ويفي شعر طويل",
+        "original": "wive long hair/ ويفي شعر طويل ",
+        "category": "ويفي فير",
+        "price": 260,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24026052",
+        "name": "ويفي شعر متوسط",
+        "original": "wive  medium hair/ ويفي شعر متوسط",
+        "category": "ويفي فير",
+        "price": 230,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24025944",
+        "name": ",ويفي شعر قصير",
+        "original": "wive short hair/,ويفي شعر قصير ",
+        "category": "ويفي فير",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:18092934",
+        "name": "استشوار عادي",
+        "original": "Blue Dry /  استشوار عادي ",
+        "category": "الاستشوار",
+        "price": 87,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092926",
+        "name": "ويفي فرشة",
+        "original": "ويفي فرشة /Wive brush  ",
+        "category": "ماسك طبيعي",
+        "price": 125,
+        "priceType": "STARTS_AT",
+        "duration": 40,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092964",
+        "name": "معالج فروة الشعر",
+        "original": "Scalp Treatment | معالج فروة الشعر",
+        "category": "ماسك طبيعي",
+        "price": 230,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092961",
+        "name": "معالج أولابليكس",
+        "original": "Olaplex Treatment | معالج أولابليكس",
+        "category": "ماسك طبيعي",
+        "price": 150,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092960",
+        "name": "بروتين الشعر",
+        "original": "Protein Hair Treatment | بروتين الشعر",
+        "category": "ماسك طبيعي",
+        "price": 920,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092947",
+        "name": "معالج للتشابك و تخفيف النفشة",
+        "original": "Detangling Treatment | معالج للتشابك و تخفيف النفشة",
+        "category": "ماسك طبيعي",
+        "price": 700,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092939",
+        "name": "صبغة لون واحد",
+        "original": "One Color Dye | صبغة لون واحد",
+        "category": "ماسك طبيعي",
+        "price": 400,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:18092933",
+        "name": "ماسك طبيعي",
+        "original": "Natural Hair Mask | ماسك طبيعي",
+        "category": "ماسك طبيعي",
+        "price": 115,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092932",
+        "name": "رنساج",
+        "original": "Rinsage | رنساج",
+        "category": "ماسك طبيعي",
+        "price": 230,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092921",
+        "name": "معالج الكافيار - بلوندز",
+        "original": "Caviar & Blondes Treatment | معالج الكافيار - بلوندز",
+        "category": "ماسك طبيعي",
+        "price": 1150,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092918",
+        "name": "صبغة جذور",
+        "original": "Root Dye | صبغة جذور",
+        "category": "ماسك طبيعي",
+        "price": 173,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19588414",
+        "name": "خدمة غسيل شعر",
+        "original": "Hair washing service | خدمة غسيل شعر",
+        "category": "ماسك طبيعي",
+        "price": 23,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21123691",
+        "name": "مساج سبا للرأس",
+        "original": "Head Spa | مساج سبا للرأس",
+        "category": "جلسة سبا للرأس",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 50,
+        "maxDuration": 50
+      },
+      {
+        "id": "s:24054402",
+        "name": "تركيب اظافر اسبوعية",
+        "original": "Temporary  nails / تركيب اظافر اسبوعية ",
+        "category": "خدمات العناية بالأظافر",
+        "price": 115,
+        "priceType": "FIXED",
+        "duration": 35,
+        "maxDuration": 35
+      },
+      {
+        "id": "s:18092948",
+        "name": "مناكير بديكير",
+        "original": "Manicure Pedicure | مناكير بديكير",
+        "category": "خدمات العناية بالأظافر",
+        "price": 207,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092949",
+        "name": "مناكير يد تنظيف",
+        "original": "Cleaning Hand Manicure | مناكير يد تنظيف",
+        "category": "خدمات العناية بالأظافر",
+        "price": 92,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:18092950",
+        "name": "بديكير أرجل تنظيف",
+        "original": "Pedicure Feet Cleaning | بديكير أرجل تنظيف",
+        "category": "خدمات العناية بالأظافر",
+        "price": 115,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:18092962",
+        "name": "مناكير رويال سبا",
+        "original": "Royal Spa Manicure | مناكير رويال سبا",
+        "category": "خدمات العناية بالأظافر",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092953",
+        "name": "لون",
+        "original": "Color | لون",
+        "category": "خدمات العناية بالأظافر",
+        "price": 23,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:18092951",
+        "name": "فرنش",
+        "original": "French | فرنش",
+        "category": "خدمات العناية بالأظافر",
+        "price": 35,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:18092920",
+        "name": "رفع الرموش",
+        "original": "Eyelash Lift | رفع الرموش",
+        "category": "رموش العين و علاجات للوجه",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092963",
+        "name": "جلسة فيتامين C",
+        "original": "Vitamin C Facial | جلسة فيتامين C",
+        "category": "رموش العين و علاجات للوجه",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092946",
+        "name": "جلسة تنظيف البشرة عادي",
+        "original": "Normal Facial | جلسة تنظيف البشرة عادي",
+        "category": "رموش العين و علاجات للوجه",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092945",
+        "name": "رفع رموش مع صبغة",
+        "original": "Lifting Eyelashes with Tint | رفع رموش مع صبغة",
+        "category": "رموش العين و علاجات للوجه",
+        "price": 575,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092944",
+        "name": "فتله وجه كامل",
+        "original": "Facial Hair Removal | فتله وجه كامل",
+        "category": "رموش العين و علاجات للوجه",
+        "price": 115,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19588335",
+        "name": "فتله حواجب",
+        "original": "Eyebrows Hair Removal | فتله حواجب",
+        "category": "رموش العين و علاجات للوجه",
+        "price": 58,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:18092930",
+        "name": "تركيب رموش بالحبة",
+        "original": "Eyelash Extension One by One | تركيب رموش بالحبة",
+        "category": "رموش العين و علاجات للوجه",
+        "price": 115,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092928",
+        "name": "تركيب رموش كامل",
+        "original": "Eyelash Extension | تركيب رموش  كامل ",
+        "category": "رموش العين و علاجات للوجه",
+        "price": 115,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:24141708",
+        "name": "مساج حوامل",
+        "original": "Prenatal  Massage /  مساج حوامل ",
+        "category": "خدمات المساج",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 55,
+        "maxDuration": 55
+      },
+      {
+        "id": "s:18092941",
+        "name": "مساج كاسات الهواء",
+        "original": "Air Cup Massage | مساج كاسات الهواء",
+        "category": "خدمات المساج",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19588446",
+        "name": "مساج الليمفاوي",
+        "original": "Lymphatic massage | مساج الليمفاوي",
+        "category": "خدمات المساج",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19588429",
+        "name": "مساج الافريقي",
+        "original": "African massage | مساج الافريقي",
+        "category": "خدمات المساج",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092929",
+        "name": "مساج بالأحجار الساخنة",
+        "original": "Hot Stone Massage | مساج بالأحجار الساخنة",
+        "category": "خدمات المساج",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:19588455",
+        "name": "مساج بأعواد الخشب",
+        "original": "Wooden massage | مساج بأعواد الخشب",
+        "category": "خدمات المساج",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092931",
+        "name": "مساج السولايت",
+        "original": "Solite Massage | مساج السولايت",
+        "category": "خدمات المساج",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092940",
+        "name": "مساج الاسترخاء",
+        "original": "Relaxing Massage | مساج الاسترخاء",
+        "category": "خدمات المساج",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092935",
+        "name": "مساج السويدي",
+        "original": "Swedish Massage | مساج السويدي",
+        "category": "خدمات المساج",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092919",
+        "name": "مساج الكتف والرقبة",
+        "original": "Neck and Shoulders Massage | مساج الكتف والرقبة",
+        "category": "خدمات المساج",
+        "price": 173,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:21123672",
+        "name": "دلكه سودانيه الكلاسيك",
+        "original": "Classic Sudanese Dukka | دلكه سودانيه الكلاسيك ",
+        "category": "خدمات الحمام السوداني",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:21044778",
+        "name": "دلكه سودانيه مع بخار",
+        "original": "Sudanese Dukka with Steam | دلكه سودانيه مع بخار ",
+        "category": "خدمات الحمام السوداني",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 50,
+        "maxDuration": 50
+      },
+      {
+        "id": "s:24141672",
+        "name": "حمام حوامل",
+        "original": "Prenatal Moroccan Bath / حمام حوامل ",
+        "category": "خدمات حمام المغربي",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:18092959",
+        "name": "حمام التفتيح بالأنزيمات",
+        "original": "Enzyme Whitening Bath | حمام التفتيح بالأنزيمات",
+        "category": "خدمات حمام المغربي",
+        "price": 805,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092958",
+        "name": "حمام سكراب",
+        "original": "Scrub Bath | حمام سكراب",
+        "category": "خدمات حمام المغربي",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092957",
+        "name": "حمام مغربي",
+        "original": "Moroccan Bath | حمام مغربي",
+        "category": "خدمات حمام المغربي",
+        "price": 345,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:18092956",
+        "name": "حمام ملكي قلوداي",
+        "original": "Glowday Bath | حمام  ملكي قلوداي ",
+        "category": "خدمات حمام المغربي",
+        "price": 575,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092955",
+        "name": "حمام مغربي بالأعشاب العطرية",
+        "original": "Moroccan Bath with Herbs | حمام مغربي بالأعشاب العطرية",
+        "category": "خدمات حمام المغربي",
+        "price": 460,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:18092954",
+        "name": "حمام العروس",
+        "original": "Bridal Bath | حمام العروس",
+        "category": "خدمات حمام المغربي",
+        "price": 1150,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      }
+    ],
+    "images": [
+      "/assets/glowday/0.jpg",
+      "/assets/glowday/1.jpg",
+      "/assets/glowday/2.jpg",
+      "/assets/glowday/3.jpg",
+      "/assets/glowday/4.jpg"
+    ],
+    "portfolio": [],
+    "logo": null,
+    "phone": "966538370726",
+    "source": "https://www.fresha.com/a/glow-day-riyadh-prince-turki-ibn-abdulaziz-al-awwal-rd-al-aqiq-riyadh-13515-hrvkwiub",
+    "booking": "https://www.fresha.com/a/glow-day-riyadh-prince-turki-ibn-abdulaziz-al-awwal-rd-al-aqiq-riyadh-13515-hrvkwiub/all-offer",
+    "instagram": "https://www.instagram.com/glowday.riyadh/",
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=Prince%20Turki%20Ibn%20Abdulaziz%20Al%20Awwal%20Rd%2C%20Al%20Aqiq%2C%20Riyadh%2013515%2C%20Riyadh%2C%20Riyadh%20Province",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Turki%20Ibn%20Abdulaziz%20Al%20Awwal%20Rd%2C%20Al%20Aqiq%2C%20Riyadh%2013515%2C%20Riyadh%2C%20Riyadh%20Province",
+      "shortFormatted": "Prince Turki Ibn Abdulaziz Al Awwal Rd, Al Aqiq, Riyadh 13515, Al aqiq, Riyadh, Riyadh Province",
+      "cityName": "Riyadh",
+      "postalCode": null,
+      "region1": "Riyadh Province",
+      "streetAddress": "Prince Turki Ibn Abdulaziz Al Awwal Rd, Al Aqiq, Riyadh 13515",
+      "apartmentSuite": null,
+      "countryCode": "SA",
+      "latitude": 24.780132293701172,
+      "longitude": 46.616310119628906,
+      "simpleFormatted": "Al aqiq, Riyadh",
+      "simpleFormattedWithContext": "Al aqiq, Riyadh",
+      "servicingAreas": [
+        "Al Aqiq"
+      ],
+      "nearbyServicingAreas": [
+        "Al Aqiq",
+        "حي العقيق",
+        "stree",
+        "وادي الأيسن",
+        "العقيق",
+        "2969"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 AM - 2:00 AM"
+          },
+          {
+            "value": "3:00 PM - 12:00 AM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 AM - 2:00 AM"
+          },
+          {
+            "value": "3:00 PM - 12:00 AM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 AM - 2:00 AM"
+          },
+          {
+            "value": "3:00 PM - 12:00 AM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 AM - 2:00 AM"
+          },
+          {
+            "value": "3:00 PM - 12:00 AM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 AM - 2:00 AM"
+          },
+          {
+            "value": "3:00 PM - 12:00 AM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "12:00 AM - 2:00 AM"
+          },
+          {
+            "value": "3:00 PM - 12:00 AM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "12:00 AM - 2:00 AM"
+          },
+          {
+            "value": "3:00 PM - 12:00 AM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.8,
+    "totalServices": 100,
+    "qualification": "قوقل ماب يربط إلى فريشا",
+    "servicesTitle": "العناية في قلو داي",
+    "bookingTitle": "موعد للعناية والراحة",
+    "visitTitle": "قلو داي في العقيق"
+  },
+  {
+    "name": "بنانة سبا",
+    "en": "Bannanah",
+    "city": "الرياض",
+    "district": "الصحافة",
+    "headline": "عناية قريبة من ذوقكِ.",
+    "subhead": "شعر وأظافر ومساج. اختاري خدمات زيارتكِ من قائمة بنانة.",
+    "theme": "terracotta",
+    "layout": "minimal",
+    "hero": 0,
+    "aboutTitle": "تفاصيل بنانة",
+    "about": "مساحة للعناية بالأظافر والشعر، مع خيارات المساج والحمام المغربي. تصفحي الخدمات ورتبي زيارتكِ.",
+    "id": "bannanah",
+    "services": [
+      {
+        "id": "s:25370533",
+        "name": "تشقير / صبغه",
+        "original": "تشقير / صبغه",
+        "category": "عناية الوجه",
+        "price": 25,
+        "priceType": "STARTS_AT",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:25370520",
+        "name": "شمع وجة كامل",
+        "original": "شمع وجة كامل",
+        "category": "عناية الوجه",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:25370519",
+        "name": "فتله وجة كامل",
+        "original": "فتله وجة كامل",
+        "category": "عناية الوجه",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:25370456",
+        "name": "استشوار ستريت",
+        "original": "استشوار ستريت",
+        "category": "خدمات الشعر",
+        "price": 50,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:25370476",
+        "name": "استشوار ويفي فرشة",
+        "original": "استشوار ويفي فرشة",
+        "category": "خدمات الشعر",
+        "price": 65,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 70
+      },
+      {
+        "id": "s:25370489",
+        "name": "ويفي بالجهاز",
+        "original": "ويفي بالجهاز",
+        "category": "خدمات الشعر",
+        "price": 100,
+        "priceType": "STARTS_AT",
+        "duration": 45,
+        "maxDuration": 85
+      },
+      {
+        "id": "s:25370480",
+        "name": "تسريحة (اي تسريحة)",
+        "original": "تسريحة (اي تسريحة)",
+        "category": "خدمات الشعر",
+        "price": 150,
+        "priceType": "STARTS_AT",
+        "duration": 50,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:25370496",
+        "name": "قص اطراف",
+        "original": "قص اطراف ",
+        "category": "خدمات الشعر",
+        "price": 50,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:25370500",
+        "name": "قص اطراف اطفال",
+        "original": "قص اطراف اطفال",
+        "category": "خدمات الشعر",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:25370506",
+        "name": "غسيل شعر",
+        "original": "غسيل شعر",
+        "category": "خدمات الشعر",
+        "price": 20,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:25370513",
+        "name": "حمام زيت",
+        "original": "حمام زيت ",
+        "category": "خدمات الشعر",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 45,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:16312940",
+        "name": "كلاسيك يدين وقدمين",
+        "original": "Classic Manicure & Pedicure | كلاسيك يدين وقدمين ",
+        "category": "بنانة كلاسيك",
+        "price": 110,
+        "priceType": "STARTS_AT",
+        "duration": 80,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:16312943",
+        "name": "كلاسيك يدين",
+        "original": "Classic Manicure | كلاسيك يدين",
+        "category": "بنانة كلاسيك",
+        "price": 55,
+        "priceType": "STARTS_AT",
+        "duration": 50,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:16312941",
+        "name": "كلاسيك قدمين",
+        "original": "Classic Pedicure | كلاسيك قدمين ",
+        "category": "بنانة كلاسيك",
+        "price": 75,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 75
+      },
+      {
+        "id": "s:16313263",
+        "name": "نعومة يدين وقدمين",
+        "original": "Soft Manicure & Pedicure | نعومة يدين وقدمين ",
+        "category": "بنانة نعومة",
+        "price": 150,
+        "priceType": "STARTS_AT",
+        "duration": 90,
+        "maxDuration": 135
+      },
+      {
+        "id": "s:16312939",
+        "name": "نعومة يدين",
+        "original": "Soft Manicure | نعومة يدين",
+        "category": "بنانة نعومة",
+        "price": 75,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:16312938",
+        "name": "نعومة قدمين",
+        "original": "Soft  Pedicure | نعومة قدمين",
+        "category": "بنانة نعومة",
+        "price": 95,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:16313448",
+        "name": "مغربي يدين وقدمين",
+        "original": "Moroccan Manicure & pedicure | مغربي يدين وقدمين ",
+        "category": "بنانة مغربي",
+        "price": 190,
+        "priceType": "STARTS_AT",
+        "duration": 105,
+        "maxDuration": 150
+      },
+      {
+        "id": "s:16313406",
+        "name": "مغربي يدين",
+        "original": "Moroccan Manicure | مغربي يدين",
+        "category": "بنانة مغربي",
+        "price": 95,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:16313418",
+        "name": "مغربي قدمين",
+        "original": "Moroccan Pedicure | مغربي قدمين",
+        "category": "بنانة مغربي",
+        "price": 115,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:21752807",
+        "name": "بياب بدون اطالة",
+        "original": "Biab overlay | بياب بدون اطالة",
+        "category": "جل وبياب",
+        "price": 190,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:17151418",
+        "name": "بياب مع اطاله",
+        "original": "Biab extinction | بياب مع اطاله ",
+        "category": "جل وبياب",
+        "price": 330,
+        "priceType": "FIXED",
+        "duration": 150,
+        "maxDuration": 150
+      },
+      {
+        "id": "s:25298225",
+        "name": "جل اكستنشن",
+        "original": "Gel Extensions | جل اكستنشن",
+        "category": "جل وبياب",
+        "price": 430,
+        "priceType": "FIXED",
+        "duration": 150,
+        "maxDuration": 150
+      },
+      {
+        "id": "s:25298251",
+        "name": "اعادة تعبئة جل اكستنشن",
+        "original": "Gel extensions refill | اعادة تعبئة جل اكستنشن",
+        "category": "جل وبياب",
+        "price": 340,
+        "priceType": "FIXED",
+        "duration": 120,
+        "maxDuration": 120
+      },
+      {
+        "id": "s:20343289",
+        "name": "جل اكستنشن ظفر واحد",
+        "original": "Gel extension (one nail) | جل اكستنشن ظفر واحد",
+        "category": "جل وبياب",
+        "price": 45,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:20936445",
+        "name": "سوفت جل اكستنشن",
+        "original": "Soft gel extensions | سوفت جل اكستنشن",
+        "category": "جل وبياب",
+        "price": 210,
+        "priceType": "FIXED",
+        "duration": 105,
+        "maxDuration": 105
+      },
+      {
+        "id": "s:16330588",
+        "name": "ازالة",
+        "original": "Removal | ازالة ",
+        "category": "جل وبياب",
+        "price": 50,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:16330276",
+        "name": "تركيب الاظافر العادية",
+        "original": "Press on nails | تركيب الاظافر العادية ",
+        "category": "خدمات أخرى",
+        "price": 110,
+        "priceType": "STARTS_AT",
+        "duration": 60,
+        "maxDuration": 80
+      },
+      {
+        "id": "s:16330617",
+        "name": "تركيب ظفر مؤقت واحد",
+        "original": "Press on one nail | تركيب ظفر مؤقت واحد ",
+        "category": "خدمات أخرى",
+        "price": 15,
+        "priceType": "STARTS_AT",
+        "duration": 10,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:16313476",
+        "name": "تنظيف سريع لليدين",
+        "original": "Quick fix | تنظيف سريع لليدين",
+        "category": "خدمات أخرى",
+        "price": 50,
+        "priceType": "STARTS_AT",
+        "duration": 30,
+        "maxDuration": 45
+      },
+      {
+        "id": "s:17034682",
+        "name": "مناكير وبدكير اطفال",
+        "original": "Little girl mani&padi | مناكير وبدكير اطفال",
+        "category": "خدمات أخرى",
+        "price": 80,
+        "priceType": "FIXED",
+        "duration": 40,
+        "maxDuration": 40
+      },
+      {
+        "id": "s:16330383",
+        "name": "فرنش",
+        "original": "French | فرنش",
+        "category": "اضافات للخدمات",
+        "price": 30,
+        "priceType": "STARTS_AT",
+        "duration": 20,
+        "maxDuration": 50
+      },
+      {
+        "id": "s:16330374",
+        "name": "لون اومبري",
+        "original": "Ombré | لون اومبري",
+        "category": "اضافات للخدمات",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:16437691",
+        "name": "لون",
+        "original": "Polish  | لون ",
+        "category": "اضافات للخدمات",
+        "price": 25,
+        "priceType": "STARTS_AT",
+        "duration": 25,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:16543860",
+        "name": "الرسم على الأظافر (ظفر واحد)",
+        "original": "Nail Art (per nail) | الرسم على الأظافر (ظفر واحد) ",
+        "category": "اضافات للخدمات",
+        "price": 15,
+        "priceType": "STARTS_AT",
+        "duration": 10,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:21871445",
+        "name": "الرسم على الأظافر (الأظافر كاملة)",
+        "original": "Nail art (full set) | الرسم على الأظافر (الأظافر كاملة)",
+        "category": "اضافات للخدمات",
+        "price": 110,
+        "priceType": "STARTS_AT",
+        "duration": 95,
+        "maxDuration": 105
+      },
+      {
+        "id": "s:20936490",
+        "name": "رسم ثلاثي الأبعاد (للظفر)",
+        "original": "3d nail art (per nail) | رسم ثلاثي الأبعاد (للظفر)",
+        "category": "اضافات للخدمات",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:20085888",
+        "name": "كروم",
+        "original": "Chrome | كروم",
+        "category": "اضافات للخدمات",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 10,
+        "maxDuration": 10
+      },
+      {
+        "id": "s:20115523",
+        "name": "كات آي",
+        "original": "Cat eye | كات آي",
+        "category": "اضافات للخدمات",
+        "price": 90,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:20936625",
+        "name": "ستكر (كامل الاظافر)",
+        "original": "Sticker (full set) | ستكر (كامل الاظافر)",
+        "category": "اضافات للخدمات",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 5,
+        "maxDuration": 5
+      },
+      {
+        "id": "s:16330540",
+        "name": "مساج لليدين",
+        "original": "Hands massage | مساج لليدين ",
+        "category": "مساج",
+        "price": 65,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:16330560",
+        "name": "مساج للقدمين",
+        "original": "Foot massage | مساج للقدمين ",
+        "category": "مساج",
+        "price": 65,
+        "priceType": "FIXED",
+        "duration": 20,
+        "maxDuration": 20
+      },
+      {
+        "id": "s:20769792",
+        "name": "عيد ميلاد",
+        "original": "Birthday | عيد ميلاد",
+        "category": "إضافة مناسبة",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 5,
+        "maxDuration": 5
+      },
+      {
+        "id": "s:20769783",
+        "name": "عروسة",
+        "original": "Bride | عروسة",
+        "category": "إضافة مناسبة",
+        "price": 70,
+        "priceType": "FIXED",
+        "duration": 5,
+        "maxDuration": 5
+      }
+    ],
+    "images": [
+      "/assets/bannanah/0.jpg",
+      "/assets/bannanah/1.jpg",
+      "/assets/bannanah/2.jpg",
+      "/assets/bannanah/3.jpg",
+      "/assets/bannanah/4.jpg"
+    ],
+    "portfolio": [],
+    "logo": "/assets/bannanah/logo.jpg",
+    "phone": "966570497544",
+    "source": "https://www.fresha.com/a/bannanah-spa-bnn-sb-riyadh-prince-nasir-bin-saud-bin-farhan-al-saud-street-eyhb383g",
+    "booking": "https://www.fresha.com/a/bannanah-spa-bnn-sb-riyadh-prince-nasir-bin-saud-bin-farhan-al-saud-street-eyhb383g/all-offer",
+    "instagram": "https://www.instagram.com/bannanah.spa?igsh=cDhid3VzMWxraHdl&utm_source=qr",
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=Prince%20Nasir%20Bin%20Saud%20Bin%20Farhan%20Al%20Saud%20Street%2C%20Riyadh%2C%2013321%2C%20Riyadh%20Province",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Nasir%20Bin%20Saud%20Bin%20Farhan%20Al%20Saud%20Street%2C%20Riyadh%2C%2013321%2C%20Riyadh%20Province",
+      "shortFormatted": "Prince Nasir Bin Saud Bin Farhan Al Saud Street, As Sahafah, Riyadh, Riyadh Province",
+      "cityName": "Riyadh",
+      "postalCode": "13321",
+      "region1": "Riyadh Province",
+      "streetAddress": "Prince Nasir Bin Saud Bin Farhan Al Saud Street",
+      "apartmentSuite": null,
+      "countryCode": "SA",
+      "latitude": 24.810894012451172,
+      "longitude": 46.64500045776367,
+      "simpleFormatted": "As Sahafah, Riyadh",
+      "simpleFormattedWithContext": "As Sahafah, Riyadh",
+      "servicingAreas": [
+        "As Sahafah"
+      ],
+      "nearbyServicingAreas": [
+        "As Sahafah",
+        "حي الصحافة",
+        "الصحافة",
+        "Al Yasmeen",
+        "Alyasmin",
+        "4445،"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": true,
+        "isToday": false,
+        "values": [
+          {
+            "value": "Closed"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "2:00 PM - 10:00 PM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.8,
+    "totalServices": 84,
+    "qualification": "قوقل ماب يربط إلى لينك تري",
+    "servicesTitle": "خدمات بنانة",
+    "bookingTitle": "نرتّب موعدكِ؟",
+    "visitTitle": "عنوان بنانة"
+  },
+  {
+    "name": "ريلاكس فوت سبا",
+    "en": "Relax Foot",
+    "city": "الرياض",
+    "district": "قرطبة",
+    "headline": "خذي وقتكِ للراحة.",
+    "subhead": "جلسات مساج للجسم والقدمين، وعناية للسيدات في قرطبة.",
+    "theme": "forest",
+    "layout": "split",
+    "hero": 0,
+    "aboutTitle": "امنحي راحتكِ الأولوية",
+    "about": "من جلسات القدمين إلى مساج الجسم، اختاري المدة والخدمة التي تناسب وقتكِ وتفضيلاتكِ.",
+    "id": "relax",
+    "services": [
+      {
+        "id": "s:25216498",
+        "name": "مساج لمدة ساعة ونصف حسب اختيار العميلة",
+        "original": "90-Minute Customized Massage \\ مساج  لمدة ساعة ونصف حسب اختيار العميلة",
+        "category": "مساج لمدة ساعة ونصف حسب اختيار العميلة",
+        "price": 450,
+        "priceType": "FIXED",
+        "duration": 90,
+        "maxDuration": 90
+      },
+      {
+        "id": "s:20652483",
+        "name": "مناكير",
+        "original": "Manicure | مناكير ",
+        "category": "خدمات التجميل والباقات",
+        "price": 100,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652474",
+        "name": "بدكير",
+        "original": "Pedicure | بدكير",
+        "category": "خدمات التجميل والباقات",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652455",
+        "name": "لون",
+        "original": "Color | لون",
+        "category": "خدمات التجميل والباقات",
+        "price": 30,
+        "priceType": "FIXED",
+        "duration": 15,
+        "maxDuration": 15
+      },
+      {
+        "id": "s:20652487",
+        "name": "بكج مساج كامل الجسم مع بديكير",
+        "original": "Full Body Massage Package With Pedicure | بكج مساج كامل الجسم مع بديكير",
+        "category": "خدمات التجميل والباقات",
+        "price": 498,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652558",
+        "name": "( بكج مساج كامل الجسم ( ٤ جلسات",
+        "original": "Full Body Massage Package (4 Sessions)  /  ( بكج مساج كامل الجسم ( ٤ جلسات ",
+        "category": "باقات المساج",
+        "price": 990,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652523",
+        "name": "( بكج مساج الخشبي ( ٤ جلسات",
+        "original": "Wood Massage Package   (4 Sessions) / ( بكج مساج الخشبي ( ٤ جلسات",
+        "category": "باقات المساج",
+        "price": 640,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652529",
+        "name": "( بكج مساج الخشبي ( ٤ جلسات",
+        "original": "Wood Massage Package   (4 Sessions) / ( بكج مساج الخشبي  ( ٤ جلسات ",
+        "category": "باقات المساج",
+        "price": 990,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20713279",
+        "name": "مساج لليد",
+        "original": "Hand massage / مساج لليد",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652411",
+        "name": "مساج الظهر بالأحجار الساخنة",
+        "original": "Hot Stone Back Massage | مساج الظهر بالأحجار الساخنة ",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652410",
+        "name": "مساج القدم المسطحة",
+        "original": "Flat foot Massage / مساج القدم المسطحة ",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652414",
+        "name": "مساج الظهر",
+        "original": "Back Massage / مساج الظهر ",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652404",
+        "name": "مساج الرأس",
+        "original": "Head Massage / مساج الرأس ",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652429",
+        "name": "مساج منطقة الألم للقدمين",
+        "original": " Foot pain area Massage / مساج منطقة الألم للقدمين ",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652434",
+        "name": "مساج القدمين بالأحجار الساخنة",
+        "original": "Hot Stone Foot Massage / مساج القدمين بالأحجار الساخنة ",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652439",
+        "name": "مساج العضلات الداخلية للقدمين",
+        "original": "Deep Foot Muscle Massage / مساج العضلات الداخلية للقدمين",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652436",
+        "name": "المساج الصيني ريفلكسولوجي للقدمين",
+        "original": "Chinese Foot reflexology Massage  \\ المساج الصيني ريفلكسولوجي للقدمين ",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652427",
+        "name": "مساج تايلندي للقدم",
+        "original": "Thai foot massage / مساج تايلندي للقدم",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652418",
+        "name": "مساج اللفافة الخمصية",
+        "original": "plantar fascia massage / مساج اللفافة الخمصية",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:20652391",
+        "name": "مساج كتف ورقبة",
+        "original": "Shoulder and neck Massage / مساج كتف ورقبة ",
+        "category": "خدمات مساج القدم والجسم",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:25216405",
+        "name": "مساج الحامل",
+        "original": "Copy of Pregnancy Massage \\ مساج الحامل",
+        "category": "علاجات المساج المتخصصة",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:25216401",
+        "name": "مساج الحامل",
+        "original": "Pregnancy Massage \\ مساج الحامل",
+        "category": "علاجات المساج المتخصصة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:25216349",
+        "name": "مساج الخلعة (الخوف او الفزع)",
+        "original": "Copy of Fear Relief Massage \\ مساج الخلعة  (الخوف او الفزع)",
+        "category": "علاجات المساج المتخصصة",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:25216348",
+        "name": "مساج الخلعة (الخوف او الفزع)",
+        "original": "Fear Relief Massage \\ مساج الخلعة  (الخوف او الفزع)",
+        "category": "علاجات المساج المتخصصة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:25216322",
+        "name": "مساج الدورة الشهرية",
+        "original": "Copy of Menstrual cycle Massage \\ مساج الدورة الشهرية ",
+        "category": "علاجات المساج المتخصصة",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 30,
+        "maxDuration": 30
+      },
+      {
+        "id": "s:25216317",
+        "name": "مساج الدورة الشهرية",
+        "original": "Menstrual cycle Massage \\ مساج الدورة الشهرية ",
+        "category": "علاجات المساج المتخصصة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20749393",
+        "name": "مساج تايلندي",
+        "original": "Thai massage / مساج تايلندي",
+        "category": "علاجات المساج المتخصصة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652339",
+        "name": "المساج اللمفاوي",
+        "original": "Lymphatic massage / المساج اللمفاوي",
+        "category": "علاجات المساج المتخصصة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652336",
+        "name": "(٦٠ دقيقة) مساج الجسم كامل بالأحجار الساخنة",
+        "original": "Full body  Massage with hot stone (60 Minutes) /   (٦٠ دقيقة) مساج الجسم كامل بالأحجار الساخنة ",
+        "category": "علاجات المساج المتخصصة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652354",
+        "name": "مساج الجسم كامل (٦٠ دقيقة)",
+        "original": "Full Body Massage (60 Minutes) / مساج الجسم كامل (٦٠ دقيقة)",
+        "category": "علاجات المساج المتخصصة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652345",
+        "name": "مساج الجسم كامل بالأعشاب",
+        "original": "Full Body massage with herbs / مساج الجسم كامل بالأعشاب ",
+        "category": "علاجات المساج المتخصصة",
+        "price": 350,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      },
+      {
+        "id": "s:20652356",
+        "name": "مساج الجسم بالأكواب (٦٠ دقيقة)",
+        "original": "Cupping Body Massage (60 Minutes) / مساج الجسم بالأكواب (٦٠ دقيقة)",
+        "category": "علاجات المساج المتخصصة",
+        "price": 300,
+        "priceType": "FIXED",
+        "duration": 60,
+        "maxDuration": 60
+      }
+    ],
+    "images": [
+      "/assets/relax/0.jpg",
+      "/assets/relax/1.jpg",
+      "/assets/relax/2.jpg"
+    ],
+    "portfolio": [],
+    "logo": null,
+    "phone": "966506166649",
+    "source": "https://www.fresha.com/a/relax-foot-spa-for-women-riyadh-rp5p-wj-p2za2wrf",
+    "booking": "https://www.fresha.com/a/relax-foot-spa-for-women-riyadh-rp5p-wj-p2za2wrf/all-offer",
+    "instagram": null,
+    "address": {
+      "directionsUrl": "https://maps.google.com/?daddr=RP5P%2BWJ%2C%20Riyadh%2C%2013245%2C%20Riyadh%20Province",
+      "distance": null,
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RP5P%2BWJ%2C%20Riyadh%2C%2013245%2C%20Riyadh%20Province",
+      "shortFormatted": "RP5P+WJ, Qurtubah, Riyadh, Riyadh Province",
+      "cityName": "Riyadh",
+      "postalCode": "13245",
+      "region1": "Riyadh Province",
+      "streetAddress": "RP5P+WJ",
+      "apartmentSuite": null,
+      "countryCode": "SA",
+      "latitude": 24.809524536132812,
+      "longitude": 46.73616409301758,
+      "simpleFormatted": "Qurtubah, Riyadh",
+      "simpleFormattedWithContext": "Qurtubah, Riyadh",
+      "servicingAreas": [
+        "Qurtubah"
+      ],
+      "nearbyServicingAreas": [
+        "Qurtubah",
+        "قرطبة",
+        "حي قرطبة",
+        "6125"
+      ]
+    },
+    "hours": [
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Monday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "3:00 PM - 11:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Tuesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "3:00 PM - 11:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Wednesday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "3:00 PM - 11:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Thursday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "3:00 PM - 11:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Friday",
+        "isClosed": true,
+        "isToday": false,
+        "values": [
+          {
+            "value": "Closed"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Saturday",
+        "isClosed": false,
+        "isToday": true,
+        "values": [
+          {
+            "value": "3:00 PM - 11:00 PM"
+          }
+        ]
+      },
+      {
+        "__typename": "LocationWorkingTimeDay",
+        "dayName": "Sunday",
+        "isClosed": false,
+        "isToday": false,
+        "values": [
+          {
+            "value": "3:00 PM - 11:00 PM"
+          }
+        ]
+      }
+    ],
+    "rating": 4.8,
+    "totalServices": 36,
+    "qualification": "قوقل ماب يربط إلى فريشا",
+    "servicesTitle": "جلسات ريلاكس فوت",
+    "bookingTitle": "اختاري جلستكِ",
+    "visitTitle": "ريلاكس فوت، قرطبة"
+  },
+  {
+    "name": "نانيس سبا",
+    "en": "Nanis",
+    "city": "الرياض",
+    "district": "الربيع",
+    "headline": "تفاصيل تحبينها في إطلالتكِ.",
+    "subhead": "عناية بالشعر والأظافر وحمام نانيس؛ تصفّحي الخدمات وصور الأعمال.",
+    "theme": "porcelain",
+    "layout": "editorial",
+    "hero": 0,
+    "aboutTitle": "طقوس تحمل اسم نانيس",
+    "about": "استكشفي حمام نانيس والحمام المغربي، وخلطات العناية بالشعر وخدمات الأظافر المنشورة في قائمة المركز.",
+    "id": "nanis",
+    "services": [
+      {
+        "id": "0",
+        "name": "حمام مغربي كلاسيك",
+        "original": "حمام مغربي كلاسيك",
+        "category": "الحمام",
+        "price": 450,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "1",
+        "name": "حمام مزيانة",
+        "original": "حمام مزيانة",
+        "category": "الحمام",
+        "price": 600,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "2",
+        "name": "حمام إيراني",
+        "original": "حمام إيراني",
+        "category": "الحمام",
+        "price": 600,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "3",
+        "name": "حمام نانيس",
+        "original": "حمام نانيس",
+        "category": "الحمام",
+        "price": 500,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "4",
+        "name": "بديكير كلاسيك لليدين والقدمين",
+        "original": "بديكير كلاسيك لليدين والقدمين",
+        "category": "الأظافر",
+        "price": 270,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "5",
+        "name": "بديكير كلاسيك لليدين",
+        "original": "بديكير كلاسيك لليدين",
+        "category": "الأظافر",
+        "price": 120,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "6",
+        "name": "بديكير كلاسيك للقدمين",
+        "original": "بديكير كلاسيك للقدمين",
+        "category": "الأظافر",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "7",
+        "name": "تنظيف روسي لليدين",
+        "original": "تنظيف روسي لليدين",
+        "category": "الأظافر",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "8",
+        "name": "لون جل",
+        "original": "لون جل",
+        "category": "الجل والإكستنشن",
+        "price": 130,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "9",
+        "name": "لون فرنسي جل",
+        "original": "لون فرنسي جل",
+        "category": "الجل والإكستنشن",
+        "price": 140,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "10",
+        "name": "بياب",
+        "original": "بياب",
+        "category": "الجل والإكستنشن",
+        "price": 215,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "11",
+        "name": "سوفت جل",
+        "original": "سوفت جل",
+        "category": "الجل والإكستنشن",
+        "price": 400,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "12",
+        "name": "حنا نانيس للشعر القصير",
+        "original": "حنا نانيس للشعر القصير",
+        "category": "الشعر",
+        "price": 120,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "13",
+        "name": "سدر نانيس للشعر القصير",
+        "original": "سدر نانيس للشعر القصير",
+        "category": "الشعر",
+        "price": 120,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "14",
+        "name": "ماسك السبيرولينا للشعر القصير",
+        "original": "ماسك السبيرولينا للشعر القصير",
+        "category": "الشعر",
+        "price": 140,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "15",
+        "name": "عجينة الأعشاب",
+        "original": "عجينة الأعشاب",
+        "category": "الشعر",
+        "price": 150,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      },
+      {
+        "id": "16",
+        "name": "سموذي الشعر",
+        "original": "سموذي الشعر",
+        "category": "الشعر",
+        "price": 130,
+        "priceType": "FIXED",
+        "duration": 0,
+        "maxDuration": 0
+      }
+    ],
+    "images": [
+      "/assets/nanis/4.jpg",
+      "/assets/nanis/5.jpg",
+      "/assets/nanis/3.jpg",
+      "/assets/nanis/0.jpg",
+      "/assets/nanis/1.jpg",
+      "/assets/nanis/2.jpg"
+    ],
+    "portfolio": [],
+    "logo": "/assets/nanis/logo.jpg",
+    "phone": "966568536868",
+    "source": "https://linktr.ee/nanespa",
+    "booking": null,
+    "instagram": "https://www.instagram.com/nanis.spa.sa/",
+    "address": {
+      "latitude": 24.7919082,
+      "longitude": 46.6724522,
+      "streetAddress": "طريق الأمير سعود بن محمد بن مقرن، الربيع، الرياض",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nanis+Spa+Riyadh"
+    },
+    "hours": [],
+    "rating": null,
+    "totalServices": null,
+    "qualification": "لا يوجد رابط موقع في قوقل ماب؛ إنستقرام يربط إلى لينك تري",
+    "priceNote": "الأسعار من القائمة المرتبطة بالحساب الرسمي؛ ملفها مؤرخ في أغسطس 2024 ويحتاج تأكيد المركز قبل الحجز.",
+    "servicesTitle": "قائمة نانيس",
+    "bookingTitle": "زيارتكِ إلى نانيس",
+    "visitTitle": "نانيس في الربيع"
+  }
+]
